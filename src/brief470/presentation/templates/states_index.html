@@ -1,0 +1,46 @@
+{% extends "base.html" %}
+{% block content %}
+  <div class="page-head">
+    <div class="wrap">
+      <h1>Open E-Rate requests by state, funding year {{ index.funding_year }}</h1>
+      <p class="updated">Updated {{ index.updated | longdate }}</p>
+      <p class="lead">Schools and libraries post their network bids as FCC Form 470s. Pick a state to see every request that is still open.</p>
+    </div>
+  </div>
+
+  <section>
+    <div class="wrap">
+      <h2>States</h2>
+      <p class="intro">Counts of certified Form 470 applications. "Open" means the earliest contract date has not passed yet.</p>
+      <div class="list" role="region" aria-label="Requests by state" tabindex="0">
+        <table>
+          <thead>
+            <tr>
+              <th scope="col">State</th>
+              <th scope="col" class="num">Filed</th>
+              <th scope="col" class="num">Open</th>
+              <th scope="col" class="num">Open with equipment</th>
+            </tr>
+          </thead>
+          <tbody>
+            {% for s in index.states %}
+            <tr>
+              <th scope="row" class="name"><a href="{{ s.code | lower }}.html">{{ s.name }}</a></th>
+              <td class="num">{{ s.filed }}</td>
+              <td class="num">{{ s.open }}</td>
+              <td class="num">{{ s.open_equipment }}</td>
+            </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+      </div>
+      <div class="cta-band">
+        <div>
+          <h2>Get a one-page brief for any of these</h2>
+          <p>Tell us your state and what you sell. We will send one brief for a request that is open right now.</p>
+        </div>
+        <a class="btn btn-primary" href="{{ form_url }}">Get a free brief for your state</a>
+      </div>
+    </div>
+  </section>
+{% endblock %}

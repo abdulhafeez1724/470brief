@@ -1,0 +1,59 @@
+{% extends "base.html" %}
+{% block content %}
+  <div class="page-head">
+    <div class="wrap">
+      <h1>{{ page.name }}: open E-Rate requests, funding year {{ page.funding_year }}</h1>
+      <p class="updated">Updated {{ page.updated | longdate }}</p>
+      <ul class="stats" aria-label="Counts">
+        <li><strong>{{ page.filed }}</strong><span>filed</span></li>
+        <li><strong>{{ page.open }}</strong><span>open</span></li>
+        <li><strong>{{ page.open_equipment }}</strong><span>open with equipment</span></li>
+      </ul>
+    </div>
+  </div>
+
+  <section>
+    <div class="wrap">
+      <h2>Requests taking bids now</h2>
+      <p class="intro">Certified Form 470s from {{ page.name }} schools and libraries whose contract date has not passed. Equipment and managed network requests (Category 2) are listed first.</p>
+      {% if page.requests %}
+      <div class="list" role="region" aria-label="Open requests in {{ page.name }}" tabindex="0">
+        <table class="requests">
+          <caption class="sr-only">Open E-Rate requests in {{ page.name }}, funding year {{ page.funding_year }}</caption>
+          <thead>
+            <tr>
+              <th scope="col">School or district</th>
+              <th scope="col">City</th>
+              <th scope="col">Request</th>
+              <th scope="col">Can sign a contract from</th>
+              <th scope="col">Form 470</th>
+            </tr>
+          </thead>
+          <tbody>
+            {% for f in page.requests %}
+            <tr>
+              <th scope="row" class="name">{{ f.entity_name | entity }}{% if f.has_equipment %} <span class="tag">Equipment</span>{% endif %}</th>
+              <td>{{ (f.city or "") | title }}</td>
+              <td>{{ f.service_types | join("; ") }}</td>
+              <td class="date">{{ f.allowable_contract_date | shortdate }}</td>
+              <td>{% if f.form_pdf_url %}<a href="{{ f.form_pdf_url }}" rel="nofollow noopener" aria-label="Form 470 number {{ f.number }}, PDF">#{{ f.number }}</a>{% else %}#{{ f.number }}{% endif %}</td>
+            </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+      </div>
+      {% else %}
+      <p class="empty">No open requests in {{ page.name }} right now. New Form 470s are added every night.</p>
+      {% endif %}
+      <p class="list-note">From public USAC Form 470 records. A school can sign a contract from the date shown; each RFP sets its own bid deadline, which is often earlier.</p>
+
+      <div class="cta-band">
+        <div>
+          <h2>Get a one-page brief for any of these</h2>
+          <p>Scope, the real bid deadline, how bids are scored and what gets a bid thrown out. Your first brief is free.</p>
+        </div>
+        <a class="btn btn-primary" href="{{ form_url }}">Get a one-page brief for any of these</a>
+      </div>
+    </div>
+  </section>
+{% endblock %}

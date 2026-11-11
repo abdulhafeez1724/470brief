@@ -1,0 +1,27 @@
+# Private data: contact details and exports never leave this machine
+data/private/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+env/
+.python-version
+
+# Tooling caches
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Local config
+.env
+*.tmp
+.DS_Store
+.vscode/
+.idea/

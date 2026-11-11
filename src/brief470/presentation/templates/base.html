@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ title }}</title>
+<meta name="description" content="{{ description }}">
+<link rel="canonical" href="{{ canonical }}">
+<meta property="og:title" content="{{ title }}">
+<meta property="og:description" content="{{ description }}">
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{ canonical }}">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght%40100..125,500..800&family=Public+Sans:wght%40400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="bar">
+  <div class="wrap">
+    <a class="logo" href="../index.html"><span>470</span>Brief</a>
+    <nav aria-label="Main">
+      <a href="index.html">All states</a>
+      <a href="../index.html#inside">What's in a brief</a>
+      <a href="../index.html#pricing">Pricing</a>
+      <a href="{{ form_url }}">Get a free brief</a>
+    </nav>
+  </div>
+</header>
+
+<main id="top">
+{% block content %}{% endblock %}
+</main>
+
+<footer>
+  <div class="wrap">
+    <div>470 Brief · Built by {{ footer_name }}</div>
+    <div><a href="../index.html">About 470 Brief</a></div>
+    <p class="disclaimer">Data is from public USAC records. 470 Brief is independent and is not affiliated with USAC or the FCC. Always confirm against the Form 470 and RFP before you bid.</p>
+  </div>
+</footer>
+
+</body>
+</html>

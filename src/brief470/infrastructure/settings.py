@@ -24,7 +24,7 @@ class Settings(BaseSettings):
     write_private: bool = True
     timezone: str = "America/New_York"
 
-    google_form_url: str = "REPLACE_WITH_GOOGLE_FORM_LINK"
+    google_form_url: str = "https://docs.google.com/forms/d/e/1FAIpQLSew44dgnLAbLXF7m-URx8efVyefIuhaHuzS78otCy7Xguq1YQ/viewform"
     site_base_url: str = "https://abdulhafeez1724.github.io/470brief/"
     footer_name: str = "Abdul Hafeez"
 

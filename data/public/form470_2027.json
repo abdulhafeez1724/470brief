@@ -1,6 +1,6 @@
 {
  "funding_year": "2027",
- "count": 3008,
+ "count": 3017,
  "forms": [
   {
    "number": "270000001",
@@ -102954,6 +102954,35 @@
    ]
   },
   {
+   "number": "270002373",
+   "funding_year": "2027",
+   "entity_name": "Albuquerque Bilingual Academy",
+   "applicant_type": "School District",
+   "billed_entity_number": "17003696",
+   "city": "Albuquerque",
+   "state": "NM",
+   "website": null,
+   "has_consultant": true,
+   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270002373/17003696/22934657-USAC_FCC_FORM_470_APPLICATION_270002373_CERTIFIED.pdf",
+   "rfp_document_urls": [],
+   "certified_at": "2026-11-14T16:44:44",
+   "last_modified_at": "2026-11-14T16:44:44",
+   "allowable_contract_date": "2026-12-12",
+   "service_requests": [
+    {
+     "id": "1",
+     "category": "Category 1",
+     "service_type": "Data Transmission and/or Internet Access",
+     "function": "Internet Access and Data Transmission Service",
+     "quantity": "1",
+     "unit": "Each",
+     "manufacturer": null,
+     "description": null,
+     "rfp_document_urls": []
+    }
+   ]
+  },
+  {
    "number": "270002374",
    "funding_year": "2027",
    "entity_name": "EAST BERNARD INDEP SCHOOL DIST",
@@ -177882,6 +177911,35 @@
    ]
   },
   {
+   "number": "270004225",
+   "funding_year": "2027",
+   "entity_name": "ST MICHAELS HIGH SCHOOL",
+   "applicant_type": "School",
+   "billed_entity_number": "99314",
+   "city": "SANTA FE",
+   "state": "NM",
+   "website": null,
+   "has_consultant": true,
+   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270004225/99314/22934738-USAC_FCC_FORM_470_APPLICATION_270004225_CERTIFIED.pdf",
+   "rfp_document_urls": [],
+   "certified_at": "2026-11-14T17:48:28",
+   "last_modified_at": "2026-11-14T17:48:28",
+   "allowable_contract_date": "2026-12-12",
+   "service_requests": [
+    {
+     "id": "1",
+     "category": "Category 1",
+     "service_type": "Data Transmission and/or Internet Access",
+     "function": "Internet Access and Data Transmission Service",
+     "quantity": "1",
+     "unit": "Each",
+     "manufacturer": null,
+     "description": null,
+     "rfp_document_urls": []
+    }
+   ]
+  },
+  {
    "number": "270004227",
    "funding_year": "2027",
    "entity_name": "HUNTSVILLE SCHOOL DISTRICT 1",
@@ -190326,6 +190384,561 @@
      "rfp_document_urls": [
       "https://publicdata.usac.org/EPC/Prd/Form470/270004650/127631/22934122-REQUEST%20FOR%20PROPOSAL%20FOR%20CATEGORY%202_11_13_26_Final.pdf"
      ]
+    }
+   ]
+  },
+  {
+   "number": "270004659",
+   "funding_year": "2027",
+   "entity_name": "SANTA FE PREPARATORY SCHOOL",
+   "applicant_type": "School",
+   "billed_entity_number": "99288",
+   "city": "SANTA FE",
+   "state": "NM",
+   "website": null,
+   "has_consultant": true,
+   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270004659/99288/22934754-USAC_FCC_FORM_470_APPLICATION_270004659_CERTIFIED.pdf",
+   "rfp_document_urls": [],
+   "certified_at": "2026-11-14T17:56:20",
+   "last_modified_at": "2026-11-14T17:56:20",
+   "allowable_contract_date": "2026-12-12",
+   "service_requests": [
+    {
+     "id": "1",
+     "category": "Category 1",
+     "service_type": "Data Transmission and/or Internet Access",
+     "function": "Internet Access and Data Transmission Service",
+     "quantity": "1",
+     "unit": "Each",
+     "manufacturer": null,
+     "description": null,
+     "rfp_document_urls": []
+    }
+   ]
+  },
+  {
+   "number": "270004660",
+   "funding_year": "2027",
+   "entity_name": "NORTH BRANCH AREA SCHOOL DIST",
+   "applicant_type": "School District",
+   "billed_entity_number": "131054",
+   "city": "NORTH BRANCH",
+   "state": "MI",
+   "website": null,
+   "has_consultant": true,
+   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270004660/131054/22934600-USAC_FCC_FORM_470_APPLICATION_270004660_CERTIFIED.pdf",
+   "rfp_document_urls": [
+    "https://publicdata.usac.org/EPC/Prd/Form470/270004660/131054/22934592-NBAS%20ERATE%202027_28%20Cat%202%20RFP%20FINAL.pdf"
+   ],
+   "certified_at": "2026-11-14T13:09:06",
+   "last_modified_at": "2026-11-14T13:09:06",
+   "allowable_contract_date": "2026-12-12",
+   "service_requests": [
+    {
+     "id": "1",
+     "category": "Category 2",
+     "service_type": "Managed Internal Broadband Services",
+     "function": "Existing Equipment",
+     "quantity": null,
+     "unit": null,
+     "manufacturer": null,
+     "description": "North Branch Area School District is seeking bids per the attached RFP for both MIBs and Cat 2 items.-Reference item details on RFP as some items/quantities on the 470 form itself are just placeholders for items that do not have a drop down on the form.-Sealed bid envelopes must include the wording \"ERATE 2027\".  Must be mailed, hand delivered or express couriered.  NO electronic submissions will be accepted.-Submit one (1) original and one (1) copy to:North Branch Area SchoolsAttention:  Mark Brown, Director of Technology6655 Jefferson StreetNorth Branch, MI  48461-Equivalent items will be considered.-Any questions regarding the RFP specifications should be directed to Director of Technology, Mark Brown at (810)688-7999 or [redacted]",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004660/131054/22934592-NBAS%20ERATE%202027_28%20Cat%202%20RFP%20FINAL.pdf"
+     ]
+    },
+    {
+     "id": "2",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Switches and Necessary Software and Licenses",
+     "quantity": "20",
+     "unit": "Each",
+     "manufacturer": "Ruckus or equivalent",
+     "description": "North Branch Area School District is seeking bids per the attached RFP for both MIBs and Cat 2 items.-Reference item details on RFP as some items/quantities on the 470 form itself are just placeholders for items that do not have a drop down on the form.-Sealed bid envelopes must include the wording \"ERATE 2027\".  Must be mailed, hand delivered or express couriered.  NO electronic submissions will be accepted.-Submit one (1) original and one (1) copy to:North Branch Area SchoolsAttention:  Mark Brown, Director of Technology6655 Jefferson StreetNorth Branch, MI  48461-Equivalent items will be considered.-Any questions regarding the RFP specifications should be directed to Director of Technology, Mark Brown at (810)688-7999 or [redacted]",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004660/131054/22934592-NBAS%20ERATE%202027_28%20Cat%202%20RFP%20FINAL.pdf"
+     ]
+    },
+    {
+     "id": "3",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Switches and Necessary Software and Licenses",
+     "quantity": "40",
+     "unit": "Each",
+     "manufacturer": "Other or equivalent",
+     "description": "North Branch Area School District is seeking bids per the attached RFP for both MIBs and Cat 2 items.-Reference item details on RFP as some items/quantities on the 470 form itself are just placeholders for items that do not have a drop down on the form.-Sealed bid envelopes must include the wording \"ERATE 2027\".  Must be mailed, hand delivered or express couriered.  NO electronic submissions will be accepted.-Submit one (1) original and one (1) copy to:North Branch Area SchoolsAttention:  Mark Brown, Director of Technology6655 Jefferson StreetNorth Branch, MI  48461-Equivalent items will be considered.-Any questions regarding the RFP specifications should be directed to Director of Technology, Mark Brown at (810)688-7999 or [redacted]",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004660/131054/22934592-NBAS%20ERATE%202027_28%20Cat%202%20RFP%20FINAL.pdf"
+     ]
+    },
+    {
+     "id": "4",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Switches and Necessary Software and Licenses",
+     "quantity": "20",
+     "unit": "Each",
+     "manufacturer": "Other or equivalent",
+     "description": "North Branch Area School District is seeking bids per the attached RFP for both MIBs and Cat 2 items.-Reference item details on RFP as some items/quantities on the 470 form itself are just placeholders for items that do not have a drop down on the form.-Sealed bid envelopes must include the wording \"ERATE 2027\".  Must be mailed, hand delivered or express couriered.  NO electronic submissions will be accepted.-Submit one (1) original and one (1) copy to:North Branch Area SchoolsAttention:  Mark Brown, Director of Technology6655 Jefferson StreetNorth Branch, MI  48461-Equivalent items will be considered.-Any questions regarding the RFP specifications should be directed to Director of Technology, Mark Brown at (810)688-7999 or [redacted]",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004660/131054/22934592-NBAS%20ERATE%202027_28%20Cat%202%20RFP%20FINAL.pdf"
+     ]
+    },
+    {
+     "id": "5",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Cabling",
+     "quantity": "40",
+     "unit": "Feet",
+     "manufacturer": "Other or equivalent",
+     "description": "North Branch Area School District is seeking bids per the attached RFP for both MIBs and Cat 2 items.-Reference item details on RFP as some items/quantities on the 470 form itself are just placeholders for items that do not have a drop down on the form.-Sealed bid envelopes must include the wording \"ERATE 2027\".  Must be mailed, hand delivered or express couriered.  NO electronic submissions will be accepted.-Submit one (1) original and one (1) copy to:North Branch Area SchoolsAttention:  Mark Brown, Director of Technology6655 Jefferson StreetNorth Branch, MI  48461-Equivalent items will be considered.-Any questions regarding the RFP specifications should be directed to Director of Technology, Mark Brown at (810)688-7999 or [redacted]",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004660/131054/22934592-NBAS%20ERATE%202027_28%20Cat%202%20RFP%20FINAL.pdf"
+     ]
+    },
+    {
+     "id": "6",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Switches and Necessary Software and Licenses",
+     "quantity": "20",
+     "unit": "Each",
+     "manufacturer": "Other or equivalent",
+     "description": "North Branch Area School District is seeking bids per the attached RFP for both MIBs and Cat 2 items.-Reference item details on RFP as some items/quantities on the 470 form itself are just placeholders for items that do not have a drop down on the form.-Sealed bid envelopes must include the wording \"ERATE 2027\".  Must be mailed, hand delivered or express couriered.  NO electronic submissions will be accepted.-Submit one (1) original and one (1) copy to:North Branch Area SchoolsAttention:  Mark Brown, Director of Technology6655 Jefferson StreetNorth Branch, MI  48461-Equivalent items will be considered.-Any questions regarding the RFP specifications should be directed to Director of Technology, Mark Brown at (810)688-7999 or [redacted]",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004660/131054/22934592-NBAS%20ERATE%202027_28%20Cat%202%20RFP%20FINAL.pdf"
+     ]
+    },
+    {
+     "id": "7",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Switches and Necessary Software and Licenses",
+     "quantity": "20",
+     "unit": "Each",
+     "manufacturer": "Other or equivalent",
+     "description": "North Branch Area School District is seeking bids per the attached RFP for both MIBs and Cat 2 items.-Reference item details on RFP as some items/quantities on the 470 form itself are just placeholders for items that do not have a drop down on the form.-Sealed bid envelopes must include the wording \"ERATE 2027\".  Must be mailed, hand delivered or express couriered.  NO electronic submissions will be accepted.-Submit one (1) original and one (1) copy to:North Branch Area SchoolsAttention:  Mark Brown, Director of Technology6655 Jefferson StreetNorth Branch, MI  48461-Equivalent items will be considered.-Any questions regarding the RFP specifications should be directed to Director of Technology, Mark Brown at (810)688-7999 or [redacted]",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004660/131054/22934592-NBAS%20ERATE%202027_28%20Cat%202%20RFP%20FINAL.pdf"
+     ]
+    }
+   ]
+  },
+  {
+   "number": "270004662",
+   "funding_year": "2027",
+   "entity_name": "CHARLESTON SCHOOL DISTRICT 1",
+   "applicant_type": "School District",
+   "billed_entity_number": "136329",
+   "city": "CHARLESTON",
+   "state": "IL",
+   "website": "http://www.charleston.k12.il.us",
+   "has_consultant": true,
+   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270004662/136329/22934588-USAC_FCC_FORM_470_APPLICATION_270004662_CERTIFIED.pdf",
+   "rfp_document_urls": [
+    "https://publicdata.usac.org/EPC/Prd/Form470/270004662/136329/22934570-Charleston%20RFP27.docx"
+   ],
+   "certified_at": "2026-11-14T12:56:10",
+   "last_modified_at": "2026-11-14T12:56:10",
+   "allowable_contract_date": "2026-12-12",
+   "service_requests": [
+    {
+     "id": "1",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Switches and Necessary Software and Licenses",
+     "quantity": "35",
+     "unit": "Each",
+     "manufacturer": "No Preference",
+     "description": "see RFP for specific detailsall equivalent brands will be considered",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004662/136329/22934570-Charleston%20RFP27.docx"
+     ]
+    },
+    {
+     "id": "2",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Antennas, Connectors, and Related Components",
+     "quantity": "35",
+     "unit": "Each",
+     "manufacturer": "No Preference",
+     "description": "see RFP for specific detailsall equivalent brands will be considered",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004662/136329/22934570-Charleston%20RFP27.docx"
+     ]
+    }
+   ]
+  },
+  {
+   "number": "270004663",
+   "funding_year": "2027",
+   "entity_name": "BRISTOW PUBLIC SCHOOLS",
+   "applicant_type": "School District",
+   "billed_entity_number": "140043",
+   "city": "BRISTOW",
+   "state": "OK",
+   "website": null,
+   "has_consultant": true,
+   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270004663/140043/22934606-USAC_FCC_FORM_470_APPLICATION_270004663_CERTIFIED.pdf",
+   "rfp_document_urls": [
+    "https://publicdata.usac.org/EPC/Prd/Form470/270004663/140043/22934571-RFPBristowYear30.pdf"
+   ],
+   "certified_at": "2026-11-14T13:33:16",
+   "last_modified_at": "2026-11-14T13:33:16",
+   "allowable_contract_date": "2026-12-12",
+   "service_requests": [
+    {
+     "id": "1",
+     "category": "Category 1",
+     "service_type": "Data Transmission and/or Internet Access",
+     "function": "Internet Access and Data Transmission Service",
+     "quantity": "1",
+     "unit": "Each",
+     "manufacturer": null,
+     "description": "Please see the attached RFP for more information.  1.\tCost allocate any ineligible fees. 2.\tPlease price Installation & Configuration separate from the Internal Connections/device(s).  3.\tCost allocate / Itemize the price of MIBS by breaking down the hourly cost and/or cost per group of equipment.  Make sure to highlight any ineligible portions. Please be very detailed with your MIBS pricing. 4.\tAll bids must be sent to [redacted] by 11:59 PM on or before December 17, 2026.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004663/140043/22934571-RFPBristowYear30.pdf"
+     ]
+    },
+    {
+     "id": "2",
+     "category": "Category 1",
+     "service_type": "Data Transmission and/or Internet Access",
+     "function": "Category One Network Equipment",
+     "quantity": "1",
+     "unit": "Each",
+     "manufacturer": null,
+     "description": "Please see the attached RFP for more information.  1.\tCost allocate any ineligible fees. 2.\tPlease price Installation & Configuration separate from the Internal Connections/device(s).  3.\tCost allocate / Itemize the price of MIBS by breaking down the hourly cost and/or cost per group of equipment.  Make sure to highlight any ineligible portions. Please be very detailed with your MIBS pricing. 4.\tAll bids must be sent to [redacted] by 11:59 PM on or before December 17, 2026.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004663/140043/22934571-RFPBristowYear30.pdf"
+     ]
+    },
+    {
+     "id": "3",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Switches and Necessary Software and Licenses",
+     "quantity": "14",
+     "unit": "Each",
+     "manufacturer": "Other or equivalent",
+     "description": "Please see the attached RFP for more information.  1.\tCost allocate any ineligible fees. 2.\tPlease price Installation & Configuration separate from the Internal Connections/device(s).  3.\tCost allocate / Itemize the price of MIBS by breaking down the hourly cost and/or cost per group of equipment.  Make sure to highlight any ineligible portions. Please be very detailed with your MIBS pricing. 4.\tAll bids must be sent to [redacted] by 11:59 PM on or before December 17, 2026.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004663/140043/22934571-RFPBristowYear30.pdf"
+     ]
+    },
+    {
+     "id": "4",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Switches and Necessary Software and Licenses",
+     "quantity": "14",
+     "unit": "Each",
+     "manufacturer": "Other or equivalent",
+     "description": "Please see the attached RFP for more information.  1.\tCost allocate any ineligible fees. 2.\tPlease price Installation & Configuration separate from the Internal Connections/device(s).  3.\tCost allocate / Itemize the price of MIBS by breaking down the hourly cost and/or cost per group of equipment.  Make sure to highlight any ineligible portions. Please be very detailed with your MIBS pricing. 4.\tAll bids must be sent to [redacted] by 11:59 PM on or before December 17, 2026.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004663/140043/22934571-RFPBristowYear30.pdf"
+     ]
+    },
+    {
+     "id": "5",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Wireless Access Points and Necessary Software and Licenses",
+     "quantity": "30",
+     "unit": "Each",
+     "manufacturer": "Other or equivalent",
+     "description": "Please see the attached RFP for more information.  1.\tCost allocate any ineligible fees. 2.\tPlease price Installation & Configuration separate from the Internal Connections/device(s).  3.\tCost allocate / Itemize the price of MIBS by breaking down the hourly cost and/or cost per group of equipment.  Make sure to highlight any ineligible portions. Please be very detailed with your MIBS pricing. 4.\tAll bids must be sent to [redacted] by 11:59 PM on or before December 17, 2026.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004663/140043/22934571-RFPBristowYear30.pdf"
+     ]
+    },
+    {
+     "id": "6",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Wireless Access Points and Necessary Software and Licenses",
+     "quantity": "190",
+     "unit": "Each",
+     "manufacturer": "Other or equivalent",
+     "description": "Please see the attached RFP for more information.  1.\tCost allocate any ineligible fees. 2.\tPlease price Installation & Configuration separate from the Internal Connections/device(s).  3.\tCost allocate / Itemize the price of MIBS by breaking down the hourly cost and/or cost per group of equipment.  Make sure to highlight any ineligible portions. Please be very detailed with your MIBS pricing. 4.\tAll bids must be sent to [redacted] by 11:59 PM on or before December 17, 2026.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004663/140043/22934571-RFPBristowYear30.pdf"
+     ]
+    },
+    {
+     "id": "7",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Switches and Necessary Software and Licenses",
+     "quantity": "4",
+     "unit": "Each",
+     "manufacturer": "Other or equivalent",
+     "description": "Please see the attached RFP for more information.  1.\tCost allocate any ineligible fees. 2.\tPlease price Installation & Configuration separate from the Internal Connections/device(s).  3.\tCost allocate / Itemize the price of MIBS by breaking down the hourly cost and/or cost per group of equipment.  Make sure to highlight any ineligible portions. Please be very detailed with your MIBS pricing. 4.\tAll bids must be sent to [redacted] by 11:59 PM on or before December 17, 2026.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004663/140043/22934571-RFPBristowYear30.pdf"
+     ]
+    },
+    {
+     "id": "8",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Cabling",
+     "quantity": "10",
+     "unit": "Feet",
+     "manufacturer": "Other or equivalent",
+     "description": "Please see the attached RFP for more information.  1.\tCost allocate any ineligible fees. 2.\tPlease price Installation & Configuration separate from the Internal Connections/device(s).  3.\tCost allocate / Itemize the price of MIBS by breaking down the hourly cost and/or cost per group of equipment.  Make sure to highlight any ineligible portions. Please be very detailed with your MIBS pricing. 4.\tAll bids must be sent to [redacted] by 11:59 PM on or before December 17, 2026.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004663/140043/22934571-RFPBristowYear30.pdf"
+     ]
+    },
+    {
+     "id": "9",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Cabling",
+     "quantity": "2",
+     "unit": "Feet",
+     "manufacturer": "Other or equivalent",
+     "description": "Please see the attached RFP for more information.  1.\tCost allocate any ineligible fees. 2.\tPlease price Installation & Configuration separate from the Internal Connections/device(s).  3.\tCost allocate / Itemize the price of MIBS by breaking down the hourly cost and/or cost per group of equipment.  Make sure to highlight any ineligible portions. Please be very detailed with your MIBS pricing. 4.\tAll bids must be sent to [redacted] by 11:59 PM on or before December 17, 2026.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004663/140043/22934571-RFPBristowYear30.pdf"
+     ]
+    },
+    {
+     "id": "10",
+     "category": "Category 2",
+     "service_type": "Managed Internal Broadband Services",
+     "function": "Existing Equipment",
+     "quantity": null,
+     "unit": null,
+     "manufacturer": null,
+     "description": "Please see the attached RFP for more information.  1.\tCost allocate any ineligible fees. 2.\tPlease price Installation & Configuration separate from the Internal Connections/device(s).  3.\tCost allocate / Itemize the price of MIBS by breaking down the hourly cost and/or cost per group of equipment.  Make sure to highlight any ineligible portions. Please be very detailed with your MIBS pricing. 4.\tAll bids must be sent to [redacted] by 11:59 PM on or before December 17, 2026.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004663/140043/22934571-RFPBristowYear30.pdf"
+     ]
+    }
+   ]
+  },
+  {
+   "number": "270004664",
+   "funding_year": "2027",
+   "entity_name": "PRUE INDEP SCHOOL DISTRICT 50",
+   "applicant_type": "School District",
+   "billed_entity_number": "140094",
+   "city": "PRUE",
+   "state": "OK",
+   "website": null,
+   "has_consultant": true,
+   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270004664/140094/22934665-USAC_FCC_FORM_470_APPLICATION_270004664_CERTIFIED.pdf",
+   "rfp_document_urls": [
+    "https://publicdata.usac.org/EPC/Prd/Form470/270004664/140094/22934624-RFP%20Prue%20Erate%20year%2030.pdf"
+   ],
+   "certified_at": "2026-11-14T16:50:49",
+   "last_modified_at": "2026-11-14T16:50:49",
+   "allowable_contract_date": "2026-12-12",
+   "service_requests": [
+    {
+     "id": "1",
+     "category": "Category 1",
+     "service_type": "Data Transmission and/or Internet Access",
+     "function": "Internet Access and Data Transmission Service",
+     "quantity": "1",
+     "unit": "Each",
+     "manufacturer": null,
+     "description": "PLEASE SEE THE ATTACHED RFP FOR MORE DETAILS. 1.\tCost allocate any ineligible fees, especially the firewallPlease itemize the eligible and ineligible portions.  2.\tPlease price Installation & Configuration separate from the Internal Connections/device(s), especially concerning NETWORK DROPS/CABLE DROPS: Please price the cost of the tangible equipment separate from the labor.  3.\tAll bids must be sent to [redacted] by 11:59 PM on or before December 17, 2026.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004664/140094/22934624-RFP%20Prue%20Erate%20year%2030.pdf"
+     ]
+    },
+    {
+     "id": "2",
+     "category": "Category 1",
+     "service_type": "Data Transmission and/or Internet Access",
+     "function": "Category One Network Equipment",
+     "quantity": "1",
+     "unit": "Each",
+     "manufacturer": null,
+     "description": "PLEASE SEE THE ATTACHED RFP FOR MORE DETAILS. 1.\tCost allocate any ineligible fees, especially the firewallPlease itemize the eligible and ineligible portions.  2.\tPlease price Installation & Configuration separate from the Internal Connections/device(s), especially concerning NETWORK DROPS/CABLE DROPS: Please price the cost of the tangible equipment separate from the labor.  3.\tAll bids must be sent to [redacted] by 11:59 PM on or before December 17, 2026.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004664/140094/22934624-RFP%20Prue%20Erate%20year%2030.pdf"
+     ]
+    },
+    {
+     "id": "3",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Cabling",
+     "quantity": "15",
+     "unit": "Feet",
+     "manufacturer": "Other or equivalent",
+     "description": "PLEASE SEE THE ATTACHED RFP FOR MORE DETAILS. 1.\tCost allocate any ineligible fees, especially the firewallPlease itemize the eligible and ineligible portions.  2.\tPlease price Installation & Configuration separate from the Internal Connections/device(s), especially concerning NETWORK DROPS/CABLE DROPS: Please price the cost of the tangible equipment separate from the labor.  3.\tAll bids must be sent to [redacted] by 11:59 PM on or before December 17, 2026.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004664/140094/22934624-RFP%20Prue%20Erate%20year%2030.pdf"
+     ]
+    },
+    {
+     "id": "4",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Switches and Necessary Software and Licenses",
+     "quantity": "9",
+     "unit": "Each",
+     "manufacturer": "Other or equivalent",
+     "description": "PLEASE SEE THE ATTACHED RFP FOR MORE DETAILS. 1.\tCost allocate any ineligible fees, especially the firewallPlease itemize the eligible and ineligible portions.  2.\tPlease price Installation & Configuration separate from the Internal Connections/device(s), especially concerning NETWORK DROPS/CABLE DROPS: Please price the cost of the tangible equipment separate from the labor.  3.\tAll bids must be sent to [redacted] by 11:59 PM on or before December 17, 2026.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004664/140094/22934624-RFP%20Prue%20Erate%20year%2030.pdf"
+     ]
+    },
+    {
+     "id": "5",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Switches and Necessary Software and Licenses",
+     "quantity": "1",
+     "unit": "Each",
+     "manufacturer": "Other or equivalent",
+     "description": "PLEASE SEE THE ATTACHED RFP FOR MORE DETAILS. 1.\tCost allocate any ineligible fees, especially the firewallPlease itemize the eligible and ineligible portions.  2.\tPlease price Installation & Configuration separate from the Internal Connections/device(s), especially concerning NETWORK DROPS/CABLE DROPS: Please price the cost of the tangible equipment separate from the labor.  3.\tAll bids must be sent to [redacted] by 11:59 PM on or before December 17, 2026.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004664/140094/22934624-RFP%20Prue%20Erate%20year%2030.pdf"
+     ]
+    },
+    {
+     "id": "6",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Cabling",
+     "quantity": "376",
+     "unit": "Feet",
+     "manufacturer": "Other or equivalent",
+     "description": "PLEASE SEE THE ATTACHED RFP FOR MORE DETAILS. 1.\tCost allocate any ineligible fees, especially the firewallPlease itemize the eligible and ineligible portions.  2.\tPlease price Installation & Configuration separate from the Internal Connections/device(s), especially concerning NETWORK DROPS/CABLE DROPS: Please price the cost of the tangible equipment separate from the labor.  3.\tAll bids must be sent to [redacted] by 11:59 PM on or before December 17, 2026.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004664/140094/22934624-RFP%20Prue%20Erate%20year%2030.pdf"
+     ]
+    },
+    {
+     "id": "7",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Cabling",
+     "quantity": "376",
+     "unit": "Feet",
+     "manufacturer": "Other or equivalent",
+     "description": "PLEASE SEE THE ATTACHED RFP FOR MORE DETAILS. 1.\tCost allocate any ineligible fees, especially the firewallPlease itemize the eligible and ineligible portions.  2.\tPlease price Installation & Configuration separate from the Internal Connections/device(s), especially concerning NETWORK DROPS/CABLE DROPS: Please price the cost of the tangible equipment separate from the labor.  3.\tAll bids must be sent to [redacted] by 11:59 PM on or before December 17, 2026.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004664/140094/22934624-RFP%20Prue%20Erate%20year%2030.pdf"
+     ]
+    },
+    {
+     "id": "8",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Firewall Service, Components, and Necessary Software and Licenses",
+     "quantity": "1",
+     "unit": "Each",
+     "manufacturer": "Other or equivalent",
+     "description": "PLEASE SEE THE ATTACHED RFP FOR MORE DETAILS. 1.\tCost allocate any ineligible fees, especially the firewallPlease itemize the eligible and ineligible portions.  2.\tPlease price Installation & Configuration separate from the Internal Connections/device(s), especially concerning NETWORK DROPS/CABLE DROPS: Please price the cost of the tangible equipment separate from the labor.  3.\tAll bids must be sent to [redacted] by 11:59 PM on or before December 17, 2026.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004664/140094/22934624-RFP%20Prue%20Erate%20year%2030.pdf"
+     ]
+    },
+    {
+     "id": "9",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Racks",
+     "quantity": "1",
+     "unit": "Each",
+     "manufacturer": "Other or equivalent",
+     "description": "PLEASE SEE THE ATTACHED RFP FOR MORE DETAILS. 1.\tCost allocate any ineligible fees, especially the firewallPlease itemize the eligible and ineligible portions.  2.\tPlease price Installation & Configuration separate from the Internal Connections/device(s), especially concerning NETWORK DROPS/CABLE DROPS: Please price the cost of the tangible equipment separate from the labor.  3.\tAll bids must be sent to [redacted] by 11:59 PM on or before December 17, 2026.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004664/140094/22934624-RFP%20Prue%20Erate%20year%2030.pdf"
+     ]
+    },
+    {
+     "id": "10",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Uninterruptable Power Supply/Battery Backup and Necessary Software and Licenses",
+     "quantity": "3",
+     "unit": "Each",
+     "manufacturer": "Other or equivalent",
+     "description": "PLEASE SEE THE ATTACHED RFP FOR MORE DETAILS. 1.\tCost allocate any ineligible fees, especially the firewallPlease itemize the eligible and ineligible portions.  2.\tPlease price Installation & Configuration separate from the Internal Connections/device(s), especially concerning NETWORK DROPS/CABLE DROPS: Please price the cost of the tangible equipment separate from the labor.  3.\tAll bids must be sent to [redacted] by 11:59 PM on or before December 17, 2026.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004664/140094/22934624-RFP%20Prue%20Erate%20year%2030.pdf"
+     ]
+    }
+   ]
+  },
+  {
+   "number": "270004666",
+   "funding_year": "2027",
+   "entity_name": "WESSINGTON PUBLIC LIBRARY",
+   "applicant_type": "Library",
+   "billed_entity_number": "134192",
+   "city": "WESSINGTON",
+   "state": "SD",
+   "website": null,
+   "has_consultant": false,
+   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270004666/134192/22934647-USAC_FCC_FORM_470_APPLICATION_270004666_CERTIFIED.pdf",
+   "rfp_document_urls": [],
+   "certified_at": "2026-11-14T16:37:28",
+   "last_modified_at": "2026-11-14T16:37:28",
+   "allowable_contract_date": "2026-12-12",
+   "service_requests": [
+    {
+     "id": "1",
+     "category": "Category 1",
+     "service_type": "Data Transmission and/or Internet Access",
+     "function": "Internet Access and Data Transmission Service",
+     "quantity": "1",
+     "unit": "Each",
+     "manufacturer": null,
+     "description": null,
+     "rfp_document_urls": []
+    }
+   ]
+  },
+  {
+   "number": "270004667",
+   "funding_year": "2027",
+   "entity_name": "THE MARITIME ACADEMY OF TOLEDO",
+   "applicant_type": "School",
+   "billed_entity_number": "16038989",
+   "city": "TOLEDO",
+   "state": "OH",
+   "website": null,
+   "has_consultant": true,
+   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270004667/16038989/22934639-USAC_FCC_FORM_470_APPLICATION_270004667_CERTIFIED.pdf",
+   "rfp_document_urls": [],
+   "certified_at": "2026-11-14T16:33:28",
+   "last_modified_at": "2026-11-14T16:33:28",
+   "allowable_contract_date": "2026-12-12",
+   "service_requests": [
+    {
+     "id": "1",
+     "category": "Category 1",
+     "service_type": "Data Transmission and/or Internet Access",
+     "function": "Internet Access and Data Transmission Service",
+     "quantity": "1",
+     "unit": "Each",
+     "manufacturer": null,
+     "description": "The agreement or contract is over a 12 month period, for the management and support (via MIBS) of a single Fortigate 201F appliance hardware firewall.- Contracts are valid only if funding is awarded.Bid/Quote Requirements:- There will be no bidders conference or job walks.- To assure all vendors receive identical information, applicants will not discuss the Form 470 by phone.All communication will be via email to the listed email above.Bids and questions must be submitted via email to the address provided above.- The Applicant prefers Service Provider Invoicing and will score bids in accordance with the bidders agreement to abide by this preference.- Failure to comply with all requirements in the RFP document (if applicable) uploaded with this Form 470 may result in disqualification of bid.- Send all bids via email.- Contracts are valid only if funding is awarded.- Bids and questions must be submitted via email to [redacted].",
+     "rfp_document_urls": []
+    },
+    {
+     "id": "2",
+     "category": "Category 2",
+     "service_type": "Managed Internal Broadband Services",
+     "function": "Existing Equipment",
+     "quantity": null,
+     "unit": null,
+     "manufacturer": null,
+     "description": "The agreement or contract is over a 12 month period, for the management and support (via MIBS) of a single Fortigate 201F appliance hardware firewall.- Contracts are valid only if funding is awarded.Bid/Quote Requirements:- There will be no bidders conference or job walks.- To assure all vendors receive identical information, applicants will not discuss the Form 470 by phone.All communication will be via email to the listed email above.Bids and questions must be submitted via email to the address provided above.- The Applicant prefers Service Provider Invoicing and will score bids in accordance with the bidders agreement to abide by this preference.- Failure to comply with all requirements in the RFP document (if applicable) uploaded with this Form 470 may result in disqualification of bid.- Send all bids via email.- Contracts are valid only if funding is awarded.- Bids and questions must be submitted via email to [redacted].",
+     "rfp_document_urls": []
     }
    ]
   }

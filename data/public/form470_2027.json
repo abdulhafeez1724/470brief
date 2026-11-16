@@ -1,6 +1,6 @@
 {
  "funding_year": "2027",
- "count": 3017,
+ "count": 3038,
  "forms": [
   {
    "number": "270000001",
@@ -129650,6 +129650,236 @@
    ]
   },
   {
+   "number": "270003000",
+   "funding_year": "2027",
+   "entity_name": "CORDELL INDEP SCHOOL DIST 78",
+   "applicant_type": "School District",
+   "billed_entity_number": "139930",
+   "city": "CORDELL",
+   "state": "OK",
+   "website": null,
+   "has_consultant": true,
+   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270003000/139930/22935977-USAC_FCC_FORM_470_APPLICATION_270003000_CERTIFIED.pdf",
+   "rfp_document_urls": [
+    "https://publicdata.usac.org/EPC/Prd/Form470/270003000/139930/22929947-CORD%20C2%20RFP%202728%20IC%20NTWK%20Final.pdf",
+    "https://publicdata.usac.org/EPC/Prd/Form470/270003000/139930/22846299-CORD%20Sample%20Service%20Provider%20Contract%20FY2027%20C2%20NRC.docx"
+   ],
+   "certified_at": "2026-11-15T19:38:25",
+   "last_modified_at": "2026-11-15T19:38:25",
+   "allowable_contract_date": "2026-12-13",
+   "service_requests": [
+    {
+     "id": "1",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Switches and Necessary Software and Licenses",
+     "quantity": "8",
+     "unit": "Each",
+     "manufacturer": "Extreme Networks or equivalent",
+     "description": "Requesting proposals for network cabling (requested in quantity not unit of feet), wireless access point associated software and licenses, network switches and associated software and licenses, uninterruptible power supplies (UPS), transceivers, and modules. Offeror requested to include all necessary cabling, licenses, connectors, components, installation, configuration, travel, per diem, shipping and any other applicable fees. The applicant is seeking bundled warranty and licenses including manufacturer maintenance support services (MSS) for equipment listed in the RFP and proposed solutions may include products and services defined as BMIC and/or MIBS in the E-Rate Eligible Services list. The applicant is not seeking standalone BMIC or MIBS solutions. See RFP for further details.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270003000/139930/22929947-CORD%20C2%20RFP%202728%20IC%20NTWK%20Final.pdf",
+      "https://publicdata.usac.org/EPC/Prd/Form470/270003000/139930/22846299-CORD%20Sample%20Service%20Provider%20Contract%20FY2027%20C2%20NRC.docx"
+     ]
+    },
+    {
+     "id": "2",
+     "category": "Category 2",
+     "service_type": "Basic Maintenance of Internal Connections",
+     "function": "Switches",
+     "quantity": "8",
+     "unit": "Each",
+     "manufacturer": "Extreme Networks",
+     "description": "Requesting proposals for network cabling (requested in quantity not unit of feet), wireless access point associated software and licenses, network switches and associated software and licenses, uninterruptible power supplies (UPS), transceivers, and modules. Offeror requested to include all necessary cabling, licenses, connectors, components, installation, configuration, travel, per diem, shipping and any other applicable fees. The applicant is seeking bundled warranty and licenses including manufacturer maintenance support services (MSS) for equipment listed in the RFP and proposed solutions may include products and services defined as BMIC and/or MIBS in the E-Rate Eligible Services list. The applicant is not seeking standalone BMIC or MIBS solutions. See RFP for further details.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270003000/139930/22929947-CORD%20C2%20RFP%202728%20IC%20NTWK%20Final.pdf",
+      "https://publicdata.usac.org/EPC/Prd/Form470/270003000/139930/22846299-CORD%20Sample%20Service%20Provider%20Contract%20FY2027%20C2%20NRC.docx"
+     ]
+    },
+    {
+     "id": "3",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Uninterruptable Power Supply/Battery Backup and Necessary Software and Licenses",
+     "quantity": "2",
+     "unit": "Each",
+     "manufacturer": "Other or equivalent",
+     "description": "Requesting proposals for network cabling (requested in quantity not unit of feet), wireless access point associated software and licenses, network switches and associated software and licenses, uninterruptible power supplies (UPS), transceivers, and modules. Offeror requested to include all necessary cabling, licenses, connectors, components, installation, configuration, travel, per diem, shipping and any other applicable fees. The applicant is seeking bundled warranty and licenses including manufacturer maintenance support services (MSS) for equipment listed in the RFP and proposed solutions may include products and services defined as BMIC and/or MIBS in the E-Rate Eligible Services list. The applicant is not seeking standalone BMIC or MIBS solutions. See RFP for further details.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270003000/139930/22929947-CORD%20C2%20RFP%202728%20IC%20NTWK%20Final.pdf",
+      "https://publicdata.usac.org/EPC/Prd/Form470/270003000/139930/22846299-CORD%20Sample%20Service%20Provider%20Contract%20FY2027%20C2%20NRC.docx"
+     ]
+    },
+    {
+     "id": "4",
+     "category": "Category 2",
+     "service_type": "Basic Maintenance of Internal Connections",
+     "function": "Uninterruptable Power Supply/Battery Backup",
+     "quantity": "2",
+     "unit": "Each",
+     "manufacturer": "Other or equivalent",
+     "description": "Requesting proposals for network cabling (requested in quantity not unit of feet), wireless access point associated software and licenses, network switches and associated software and licenses, uninterruptible power supplies (UPS), transceivers, and modules. Offeror requested to include all necessary cabling, licenses, connectors, components, installation, configuration, travel, per diem, shipping and any other applicable fees. The applicant is seeking bundled warranty and licenses including manufacturer maintenance support services (MSS) for equipment listed in the RFP and proposed solutions may include products and services defined as BMIC and/or MIBS in the E-Rate Eligible Services list. The applicant is not seeking standalone BMIC or MIBS solutions. See RFP for further details.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270003000/139930/22929947-CORD%20C2%20RFP%202728%20IC%20NTWK%20Final.pdf",
+      "https://publicdata.usac.org/EPC/Prd/Form470/270003000/139930/22846299-CORD%20Sample%20Service%20Provider%20Contract%20FY2027%20C2%20NRC.docx"
+     ]
+    },
+    {
+     "id": "5",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Cabling",
+     "quantity": "2",
+     "unit": "Feet",
+     "manufacturer": "Extreme Networks or equivalent",
+     "description": "Requesting proposals for network cabling (requested in quantity not unit of feet), wireless access point associated software and licenses, network switches and associated software and licenses, uninterruptible power supplies (UPS), transceivers, and modules. Offeror requested to include all necessary cabling, licenses, connectors, components, installation, configuration, travel, per diem, shipping and any other applicable fees. The applicant is seeking bundled warranty and licenses including manufacturer maintenance support services (MSS) for equipment listed in the RFP and proposed solutions may include products and services defined as BMIC and/or MIBS in the E-Rate Eligible Services list. The applicant is not seeking standalone BMIC or MIBS solutions. See RFP for further details.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270003000/139930/22929947-CORD%20C2%20RFP%202728%20IC%20NTWK%20Final.pdf",
+      "https://publicdata.usac.org/EPC/Prd/Form470/270003000/139930/22846299-CORD%20Sample%20Service%20Provider%20Contract%20FY2027%20C2%20NRC.docx"
+     ]
+    },
+    {
+     "id": "6",
+     "category": "Category 2",
+     "service_type": "Basic Maintenance of Internal Connections",
+     "function": "Cabling",
+     "quantity": "2",
+     "unit": "Feet",
+     "manufacturer": "Extreme Networks",
+     "description": "Requesting proposals for network cabling (requested in quantity not unit of feet), wireless access point associated software and licenses, network switches and associated software and licenses, uninterruptible power supplies (UPS), transceivers, and modules. Offeror requested to include all necessary cabling, licenses, connectors, components, installation, configuration, travel, per diem, shipping and any other applicable fees. The applicant is seeking bundled warranty and licenses including manufacturer maintenance support services (MSS) for equipment listed in the RFP and proposed solutions may include products and services defined as BMIC and/or MIBS in the E-Rate Eligible Services list. The applicant is not seeking standalone BMIC or MIBS solutions. See RFP for further details.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270003000/139930/22929947-CORD%20C2%20RFP%202728%20IC%20NTWK%20Final.pdf",
+      "https://publicdata.usac.org/EPC/Prd/Form470/270003000/139930/22846299-CORD%20Sample%20Service%20Provider%20Contract%20FY2027%20C2%20NRC.docx"
+     ]
+    },
+    {
+     "id": "7",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Antennas, Connectors, and Related Components",
+     "quantity": "28",
+     "unit": "Each",
+     "manufacturer": "Extreme Networks or equivalent",
+     "description": "Requesting proposals for network cabling (requested in quantity not unit of feet), wireless access point associated software and licenses, network switches and associated software and licenses, uninterruptible power supplies (UPS), transceivers, and modules. Offeror requested to include all necessary cabling, licenses, connectors, components, installation, configuration, travel, per diem, shipping and any other applicable fees. The applicant is seeking bundled warranty and licenses including manufacturer maintenance support services (MSS) for equipment listed in the RFP and proposed solutions may include products and services defined as BMIC and/or MIBS in the E-Rate Eligible Services list. The applicant is not seeking standalone BMIC or MIBS solutions. See RFP for further details.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270003000/139930/22929947-CORD%20C2%20RFP%202728%20IC%20NTWK%20Final.pdf",
+      "https://publicdata.usac.org/EPC/Prd/Form470/270003000/139930/22846299-CORD%20Sample%20Service%20Provider%20Contract%20FY2027%20C2%20NRC.docx"
+     ]
+    },
+    {
+     "id": "8",
+     "category": "Category 2",
+     "service_type": "Basic Maintenance of Internal Connections",
+     "function": "Antennas, Connectors, and Related Components",
+     "quantity": "28",
+     "unit": "Each",
+     "manufacturer": "Extreme Networks",
+     "description": "Requesting proposals for network cabling (requested in quantity not unit of feet), wireless access point associated software and licenses, network switches and associated software and licenses, uninterruptible power supplies (UPS), transceivers, and modules. Offeror requested to include all necessary cabling, licenses, connectors, components, installation, configuration, travel, per diem, shipping and any other applicable fees. The applicant is seeking bundled warranty and licenses including manufacturer maintenance support services (MSS) for equipment listed in the RFP and proposed solutions may include products and services defined as BMIC and/or MIBS in the E-Rate Eligible Services list. The applicant is not seeking standalone BMIC or MIBS solutions. See RFP for further details.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270003000/139930/22929947-CORD%20C2%20RFP%202728%20IC%20NTWK%20Final.pdf",
+      "https://publicdata.usac.org/EPC/Prd/Form470/270003000/139930/22846299-CORD%20Sample%20Service%20Provider%20Contract%20FY2027%20C2%20NRC.docx"
+     ]
+    },
+    {
+     "id": "9",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Cabling",
+     "quantity": "24",
+     "unit": "Feet",
+     "manufacturer": "No Preference",
+     "description": "Requesting proposals for network cabling (requested in quantity not unit of feet), wireless access point associated software and licenses, network switches and associated software and licenses, uninterruptible power supplies (UPS), transceivers, and modules. Offeror requested to include all necessary cabling, licenses, connectors, components, installation, configuration, travel, per diem, shipping and any other applicable fees. The applicant is seeking bundled warranty and licenses including manufacturer maintenance support services (MSS) for equipment listed in the RFP and proposed solutions may include products and services defined as BMIC and/or MIBS in the E-Rate Eligible Services list. The applicant is not seeking standalone BMIC or MIBS solutions. See RFP for further details.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270003000/139930/22929947-CORD%20C2%20RFP%202728%20IC%20NTWK%20Final.pdf",
+      "https://publicdata.usac.org/EPC/Prd/Form470/270003000/139930/22846299-CORD%20Sample%20Service%20Provider%20Contract%20FY2027%20C2%20NRC.docx"
+     ]
+    },
+    {
+     "id": "10",
+     "category": "Category 2",
+     "service_type": "Basic Maintenance of Internal Connections",
+     "function": "Cabling",
+     "quantity": "24",
+     "unit": "Feet",
+     "manufacturer": "No Preference",
+     "description": "Requesting proposals for network cabling (requested in quantity not unit of feet), wireless access point associated software and licenses, network switches and associated software and licenses, uninterruptible power supplies (UPS), transceivers, and modules. Offeror requested to include all necessary cabling, licenses, connectors, components, installation, configuration, travel, per diem, shipping and any other applicable fees. The applicant is seeking bundled warranty and licenses including manufacturer maintenance support services (MSS) for equipment listed in the RFP and proposed solutions may include products and services defined as BMIC and/or MIBS in the E-Rate Eligible Services list. The applicant is not seeking standalone BMIC or MIBS solutions. See RFP for further details.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270003000/139930/22929947-CORD%20C2%20RFP%202728%20IC%20NTWK%20Final.pdf",
+      "https://publicdata.usac.org/EPC/Prd/Form470/270003000/139930/22846299-CORD%20Sample%20Service%20Provider%20Contract%20FY2027%20C2%20NRC.docx"
+     ]
+    },
+    {
+     "id": "11",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Wireless Access Points and Necessary Software and Licenses",
+     "quantity": "115",
+     "unit": "Each",
+     "manufacturer": "Extreme Networks or equivalent",
+     "description": "Requesting proposals for network cabling (requested in quantity not unit of feet), wireless access point associated software and licenses, network switches and associated software and licenses, uninterruptible power supplies (UPS), transceivers, and modules. Offeror requested to include all necessary cabling, licenses, connectors, components, installation, configuration, travel, per diem, shipping and any other applicable fees. The applicant is seeking bundled warranty and licenses including manufacturer maintenance support services (MSS) for equipment listed in the RFP and proposed solutions may include products and services defined as BMIC and/or MIBS in the E-Rate Eligible Services list. The applicant is not seeking standalone BMIC or MIBS solutions. See RFP for further details.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270003000/139930/22929947-CORD%20C2%20RFP%202728%20IC%20NTWK%20Final.pdf",
+      "https://publicdata.usac.org/EPC/Prd/Form470/270003000/139930/22846299-CORD%20Sample%20Service%20Provider%20Contract%20FY2027%20C2%20NRC.docx"
+     ]
+    },
+    {
+     "id": "12",
+     "category": "Category 2",
+     "service_type": "Basic Maintenance of Internal Connections",
+     "function": "Wireless Access Points",
+     "quantity": "115",
+     "unit": "Each",
+     "manufacturer": "Extreme Networks",
+     "description": "Requesting proposals for network cabling (requested in quantity not unit of feet), wireless access point associated software and licenses, network switches and associated software and licenses, uninterruptible power supplies (UPS), transceivers, and modules. Offeror requested to include all necessary cabling, licenses, connectors, components, installation, configuration, travel, per diem, shipping and any other applicable fees. The applicant is seeking bundled warranty and licenses including manufacturer maintenance support services (MSS) for equipment listed in the RFP and proposed solutions may include products and services defined as BMIC and/or MIBS in the E-Rate Eligible Services list. The applicant is not seeking standalone BMIC or MIBS solutions. See RFP for further details.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270003000/139930/22929947-CORD%20C2%20RFP%202728%20IC%20NTWK%20Final.pdf",
+      "https://publicdata.usac.org/EPC/Prd/Form470/270003000/139930/22846299-CORD%20Sample%20Service%20Provider%20Contract%20FY2027%20C2%20NRC.docx"
+     ]
+    },
+    {
+     "id": "13",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Antennas, Connectors, and Related Components",
+     "quantity": "32",
+     "unit": "Each",
+     "manufacturer": "No Preference",
+     "description": "Requesting proposals for network cabling (requested in quantity not unit of feet), wireless access point associated software and licenses, network switches and associated software and licenses, uninterruptible power supplies (UPS), transceivers, and modules. Offeror requested to include all necessary cabling, licenses, connectors, components, installation, configuration, travel, per diem, shipping and any other applicable fees. The applicant is seeking bundled warranty and licenses including manufacturer maintenance support services (MSS) for equipment listed in the RFP and proposed solutions may include products and services defined as BMIC and/or MIBS in the E-Rate Eligible Services list. The applicant is not seeking standalone BMIC or MIBS solutions. See RFP for further details.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270003000/139930/22929947-CORD%20C2%20RFP%202728%20IC%20NTWK%20Final.pdf",
+      "https://publicdata.usac.org/EPC/Prd/Form470/270003000/139930/22846299-CORD%20Sample%20Service%20Provider%20Contract%20FY2027%20C2%20NRC.docx"
+     ]
+    },
+    {
+     "id": "14",
+     "category": "Category 2",
+     "service_type": "Basic Maintenance of Internal Connections",
+     "function": "Antennas, Connectors, and Related Components",
+     "quantity": "32",
+     "unit": "Each",
+     "manufacturer": "No Preference",
+     "description": "Requesting proposals for network cabling (requested in quantity not unit of feet), wireless access point associated software and licenses, network switches and associated software and licenses, uninterruptible power supplies (UPS), transceivers, and modules. Offeror requested to include all necessary cabling, licenses, connectors, components, installation, configuration, travel, per diem, shipping and any other applicable fees. The applicant is seeking bundled warranty and licenses including manufacturer maintenance support services (MSS) for equipment listed in the RFP and proposed solutions may include products and services defined as BMIC and/or MIBS in the E-Rate Eligible Services list. The applicant is not seeking standalone BMIC or MIBS solutions. See RFP for further details.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270003000/139930/22846299-CORD%20Sample%20Service%20Provider%20Contract%20FY2027%20C2%20NRC.docx"
+     ]
+    },
+    {
+     "id": "15",
+     "category": "Category 2",
+     "service_type": "Managed Internal Broadband Services",
+     "function": "Existing Equipment",
+     "quantity": null,
+     "unit": null,
+     "manufacturer": null,
+     "description": "Requesting proposals for network cabling (requested in quantity not unit of feet), wireless access point associated software and licenses, network switches and associated software and licenses, uninterruptible power supplies (UPS), transceivers, and modules. Offeror requested to include all necessary cabling, licenses, connectors, components, installation, configuration, travel, per diem, shipping and any other applicable fees. The applicant is seeking bundled warranty and licenses including manufacturer maintenance support services (MSS) for equipment listed in the RFP and proposed solutions may include products and services defined as BMIC and/or MIBS in the E-Rate Eligible Services list. The applicant is not seeking standalone BMIC or MIBS solutions. See RFP for further details.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270003000/139930/22929947-CORD%20C2%20RFP%202728%20IC%20NTWK%20Final.pdf",
+      "https://publicdata.usac.org/EPC/Prd/Form470/270003000/139930/22846299-CORD%20Sample%20Service%20Provider%20Contract%20FY2027%20C2%20NRC.docx"
+     ]
+    }
+   ]
+  },
+  {
    "number": "270003001",
    "funding_year": "2027",
    "entity_name": "Lauderdale County School District",
@@ -190938,6 +191168,732 @@
      "unit": null,
      "manufacturer": null,
      "description": "The agreement or contract is over a 12 month period, for the management and support (via MIBS) of a single Fortigate 201F appliance hardware firewall.- Contracts are valid only if funding is awarded.Bid/Quote Requirements:- There will be no bidders conference or job walks.- To assure all vendors receive identical information, applicants will not discuss the Form 470 by phone.All communication will be via email to the listed email above.Bids and questions must be submitted via email to the address provided above.- The Applicant prefers Service Provider Invoicing and will score bids in accordance with the bidders agreement to abide by this preference.- Failure to comply with all requirements in the RFP document (if applicable) uploaded with this Form 470 may result in disqualification of bid.- Send all bids via email.- Contracts are valid only if funding is awarded.- Bids and questions must be submitted via email to [redacted].",
+     "rfp_document_urls": []
+    }
+   ]
+  },
+  {
+   "number": "270004673",
+   "funding_year": "2027",
+   "entity_name": "BROOME-TIOGA BOCES",
+   "applicant_type": "Consortium",
+   "billed_entity_number": "124758",
+   "city": "BINGHAMTON",
+   "state": "NY",
+   "website": null,
+   "has_consultant": true,
+   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270004673/124758/22934871-USAC_FCC_FORM_470_APPLICATION_270004673_CERTIFIED.pdf",
+   "rfp_document_urls": [],
+   "certified_at": "2026-11-14T23:59:06",
+   "last_modified_at": "2026-11-14T23:59:06",
+   "allowable_contract_date": "2026-12-12",
+   "service_requests": [
+    {
+     "id": "1",
+     "category": "Category 1",
+     "service_type": "Data Transmission and/or Internet Access",
+     "function": "Internet Access and Data Transmission Service",
+     "quantity": "5",
+     "unit": "Each",
+     "manufacturer": null,
+     "description": null,
+     "rfp_document_urls": []
+    }
+   ]
+  },
+  {
+   "number": "270004682",
+   "funding_year": "2027",
+   "entity_name": "ODIN PUBLIC SCHOOL DISTRICT 722",
+   "applicant_type": "School District",
+   "billed_entity_number": "136773",
+   "city": "ODIN",
+   "state": "IL",
+   "website": null,
+   "has_consultant": true,
+   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270004682/136773/22935550-USAC_FCC_FORM_470_APPLICATION_270004682_CERTIFIED.pdf",
+   "rfp_document_urls": [
+    "https://publicdata.usac.org/EPC/Prd/Form470/270004682/136773/22935462-MIBS%20Networking%20Support%20RFP%20.docx",
+    "https://publicdata.usac.org/EPC/Prd/Form470/270004682/136773/22935463-Odin%20Make%20and%20Model.docx.pdf"
+   ],
+   "certified_at": "2026-11-15T11:14:21",
+   "last_modified_at": "2026-11-15T11:14:21",
+   "allowable_contract_date": "2026-12-13",
+   "service_requests": [
+    {
+     "id": "1",
+     "category": "Category 2",
+     "service_type": "Managed Internal Broadband Services",
+     "function": "Existing Equipment",
+     "quantity": null,
+     "unit": null,
+     "manufacturer": null,
+     "description": "Manage existing equipment. See attached make and model of eligible items to be maintained.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004682/136773/22935462-MIBS%20Networking%20Support%20RFP%20.docx",
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004682/136773/22935463-Odin%20Make%20and%20Model.docx.pdf"
+     ]
+    }
+   ]
+  },
+  {
+   "number": "270004683",
+   "funding_year": "2027",
+   "entity_name": "OHIO COMM HIGH SCHOOL DIST 505",
+   "applicant_type": "School District",
+   "billed_entity_number": "136017",
+   "city": "OHIO",
+   "state": "IL",
+   "website": null,
+   "has_consultant": true,
+   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270004683/136017/22935624-USAC_FCC_FORM_470_APPLICATION_270004683_CERTIFIED.pdf",
+   "rfp_document_urls": [
+    "https://publicdata.usac.org/EPC/Prd/Form470/270004683/136017/22935466-MIBS%20Networking%20Support%20RFP%20.docx",
+    "https://publicdata.usac.org/EPC/Prd/Form470/270004683/136017/22935467-Ohio%20HS%20505%20Make%20and%20Model.docx.pdf"
+   ],
+   "certified_at": "2026-11-15T11:18:20",
+   "last_modified_at": "2026-11-15T11:18:20",
+   "allowable_contract_date": "2026-12-13",
+   "service_requests": [
+    {
+     "id": "1",
+     "category": "Category 2",
+     "service_type": "Managed Internal Broadband Services",
+     "function": "Existing Equipment",
+     "quantity": null,
+     "unit": null,
+     "manufacturer": null,
+     "description": "Manage existing equipment. See attached make and model of eligible items to be maintained.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004683/136017/22935466-MIBS%20Networking%20Support%20RFP%20.docx",
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004683/136017/22935467-Ohio%20HS%20505%20Make%20and%20Model.docx.pdf"
+     ]
+    }
+   ]
+  },
+  {
+   "number": "270004685",
+   "funding_year": "2027",
+   "entity_name": "OHIO COMM CONS SCHOOL DIST 17",
+   "applicant_type": "School District",
+   "billed_entity_number": "136016",
+   "city": "OHIO",
+   "state": "IL",
+   "website": null,
+   "has_consultant": true,
+   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270004685/136016/22935622-USAC_FCC_FORM_470_APPLICATION_270004685_CERTIFIED.pdf",
+   "rfp_document_urls": [
+    "https://publicdata.usac.org/EPC/Prd/Form470/270004685/136016/22935470-MIBS%20Networking%20Support%20RFP%20.docx",
+    "https://publicdata.usac.org/EPC/Prd/Form470/270004685/136016/22935471-Ohio%2017%20Make%20and%20Model.docx.pdf"
+   ],
+   "certified_at": "2026-11-15T11:18:00",
+   "last_modified_at": "2026-11-15T11:18:00",
+   "allowable_contract_date": "2026-12-13",
+   "service_requests": [
+    {
+     "id": "1",
+     "category": "Category 2",
+     "service_type": "Managed Internal Broadband Services",
+     "function": "Existing Equipment",
+     "quantity": null,
+     "unit": null,
+     "manufacturer": null,
+     "description": "Manage existing equipment. See attached make and model of eligible items to be maintained.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004685/136016/22935470-MIBS%20Networking%20Support%20RFP%20.docx",
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004685/136016/22935471-Ohio%2017%20Make%20and%20Model.docx.pdf"
+     ]
+    }
+   ]
+  },
+  {
+   "number": "270004686",
+   "funding_year": "2027",
+   "entity_name": "OKAW VALLEY COMMUNITY UNIT SCHOOL DIST. 302",
+   "applicant_type": "School District",
+   "billed_entity_number": "136325",
+   "city": "BETHANY",
+   "state": "IL",
+   "website": null,
+   "has_consultant": true,
+   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270004686/136325/22935610-USAC_FCC_FORM_470_APPLICATION_270004686_CERTIFIED.pdf",
+   "rfp_document_urls": [
+    "https://publicdata.usac.org/EPC/Prd/Form470/270004686/136325/22935476-MIBS%20Networking%20Support%20RFP%20.docx",
+    "https://publicdata.usac.org/EPC/Prd/Form470/270004686/136325/22935477-Okaw%20Valley%20Make%20and%20Model.pdf"
+   ],
+   "certified_at": "2026-11-15T11:17:21",
+   "last_modified_at": "2026-11-15T11:17:21",
+   "allowable_contract_date": "2026-12-13",
+   "service_requests": [
+    {
+     "id": "1",
+     "category": "Category 2",
+     "service_type": "Managed Internal Broadband Services",
+     "function": "Existing Equipment",
+     "quantity": null,
+     "unit": null,
+     "manufacturer": null,
+     "description": "Manage existing equipment. See attached make and model of eligible items to be maintained.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004686/136325/22935476-MIBS%20Networking%20Support%20RFP%20.docx",
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004686/136325/22935477-Okaw%20Valley%20Make%20and%20Model.pdf"
+     ]
+    }
+   ]
+  },
+  {
+   "number": "270004687",
+   "funding_year": "2027",
+   "entity_name": "WEST WASHINGTON CO SCH DIST 10",
+   "applicant_type": "School District",
+   "billed_entity_number": "136483",
+   "city": "OKAWVILLE",
+   "state": "IL",
+   "website": null,
+   "has_consultant": true,
+   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270004687/136483/22935604-USAC_FCC_FORM_470_APPLICATION_270004687_CERTIFIED.pdf",
+   "rfp_document_urls": [
+    "https://publicdata.usac.org/EPC/Prd/Form470/270004687/136483/22935485-MIBS%20Networking%20Support%20RFP%20.docx",
+    "https://publicdata.usac.org/EPC/Prd/Form470/270004687/136483/22935486-West%20Washington%20Make%20and%20Model.docx.pdf"
+   ],
+   "certified_at": "2026-11-15T11:17:07",
+   "last_modified_at": "2026-11-15T11:17:07",
+   "allowable_contract_date": "2026-12-13",
+   "service_requests": [
+    {
+     "id": "1",
+     "category": "Category 2",
+     "service_type": "Managed Internal Broadband Services",
+     "function": "Existing Equipment",
+     "quantity": null,
+     "unit": null,
+     "manufacturer": null,
+     "description": "Manage existing equipment. See attached make and model of eligible items to be maintained.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004687/136483/22935485-MIBS%20Networking%20Support%20RFP%20.docx",
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004687/136483/22935486-West%20Washington%20Make%20and%20Model.docx.pdf"
+     ]
+    }
+   ]
+  },
+  {
+   "number": "270004688",
+   "funding_year": "2027",
+   "entity_name": "OPDYKE-BELLE RIVE GRADE SCHOOL DISTRICT #5",
+   "applicant_type": "School District",
+   "billed_entity_number": "136774",
+   "city": "OPDYKE",
+   "state": "IL",
+   "website": null,
+   "has_consultant": true,
+   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270004688/136774/22935616-USAC_FCC_FORM_470_APPLICATION_270004688_CERTIFIED.pdf",
+   "rfp_document_urls": [
+    "https://publicdata.usac.org/EPC/Prd/Form470/270004688/136774/22935487-MIBS%20Networking%20Support%20RFP%20.docx",
+    "https://publicdata.usac.org/EPC/Prd/Form470/270004688/136774/22935489-Opdyke%20Belle%20Rive%20Make%20and%20Model.pdf"
+   ],
+   "certified_at": "2026-11-15T11:17:44",
+   "last_modified_at": "2026-11-15T11:17:44",
+   "allowable_contract_date": "2026-12-13",
+   "service_requests": [
+    {
+     "id": "1",
+     "category": "Category 2",
+     "service_type": "Managed Internal Broadband Services",
+     "function": "Existing Equipment",
+     "quantity": null,
+     "unit": null,
+     "manufacturer": null,
+     "description": "Manage existing equipment. See attached make and model of eligible items to be maintained.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004688/136774/22935487-MIBS%20Networking%20Support%20RFP%20.docx",
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004688/136774/22935489-Opdyke%20Belle%20Rive%20Make%20and%20Model.pdf"
+     ]
+    }
+   ]
+  },
+  {
+   "number": "270004690",
+   "funding_year": "2027",
+   "entity_name": "OREARVILLE SCHOOL DISTRICT R  IV",
+   "applicant_type": "School District",
+   "billed_entity_number": "137392",
+   "city": "SLATER",
+   "state": "MO",
+   "website": null,
+   "has_consultant": true,
+   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270004690/137392/22935593-USAC_FCC_FORM_470_APPLICATION_270004690_CERTIFIED.pdf",
+   "rfp_document_urls": [
+    "https://publicdata.usac.org/EPC/Prd/Form470/270004690/137392/22935494-MIBS%20Networking%20Support%20RFP%20.docx",
+    "https://publicdata.usac.org/EPC/Prd/Form470/270004690/137392/22935495-Orearville%20Make%20and%20Model.pdf"
+   ],
+   "certified_at": "2026-11-15T11:16:39",
+   "last_modified_at": "2026-11-15T11:16:39",
+   "allowable_contract_date": "2026-12-13",
+   "service_requests": [
+    {
+     "id": "1",
+     "category": "Category 2",
+     "service_type": "Managed Internal Broadband Services",
+     "function": "Existing Equipment",
+     "quantity": null,
+     "unit": null,
+     "manufacturer": null,
+     "description": "Manage existing equipment. See attached make and model of eligible items to be maintained.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004690/137392/22935494-MIBS%20Networking%20Support%20RFP%20.docx",
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004690/137392/22935495-Orearville%20Make%20and%20Model.pdf"
+     ]
+    }
+   ]
+  },
+  {
+   "number": "270004691",
+   "funding_year": "2027",
+   "entity_name": "PATTONSBURG SCHOOL DIST R 2",
+   "applicant_type": "School District",
+   "billed_entity_number": "137233",
+   "city": "PATTONSBURG",
+   "state": "MO",
+   "website": null,
+   "has_consultant": true,
+   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270004691/137233/22935599-USAC_FCC_FORM_470_APPLICATION_270004691_CERTIFIED.pdf",
+   "rfp_document_urls": [
+    "https://publicdata.usac.org/EPC/Prd/Form470/270004691/137233/22935500-MIBS%20Networking%20Support%20RFP%20.docx",
+    "https://publicdata.usac.org/EPC/Prd/Form470/270004691/137233/22935501-Pattonsburg%20Make%20and%20Model.pdf"
+   ],
+   "certified_at": "2026-11-15T11:16:52",
+   "last_modified_at": "2026-11-15T11:16:52",
+   "allowable_contract_date": "2026-12-13",
+   "service_requests": [
+    {
+     "id": "1",
+     "category": "Category 2",
+     "service_type": "Managed Internal Broadband Services",
+     "function": "Existing Equipment",
+     "quantity": null,
+     "unit": null,
+     "manufacturer": null,
+     "description": "Manage existing equipment. See attached make and model of eligible items to be maintained.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004691/137233/22935500-MIBS%20Networking%20Support%20RFP%20.docx",
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004691/137233/22935501-Pattonsburg%20Make%20and%20Model.pdf"
+     ]
+    }
+   ]
+  },
+  {
+   "number": "270004692",
+   "funding_year": "2027",
+   "entity_name": "PECATONICA AREA SCHOOL DIST",
+   "applicant_type": "School District",
+   "billed_entity_number": "132926",
+   "city": "BLANCHARDVILLE",
+   "state": "WI",
+   "website": "pecatonica.k12.wi.us",
+   "has_consultant": true,
+   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270004692/132926/22935587-USAC_FCC_FORM_470_APPLICATION_270004692_CERTIFIED.pdf",
+   "rfp_document_urls": [
+    "https://publicdata.usac.org/EPC/Prd/Form470/270004692/132926/22935504-MIBS%20Networking%20Support%20RFP%20.docx",
+    "https://publicdata.usac.org/EPC/Prd/Form470/270004692/132926/22935505-Pecatonica%20Make%20and%20Model.pdf"
+   ],
+   "certified_at": "2026-11-15T11:16:25",
+   "last_modified_at": "2026-11-15T11:16:25",
+   "allowable_contract_date": "2026-12-13",
+   "service_requests": [
+    {
+     "id": "1",
+     "category": "Category 2",
+     "service_type": "Managed Internal Broadband Services",
+     "function": "Existing Equipment",
+     "quantity": null,
+     "unit": null,
+     "manufacturer": null,
+     "description": "Manage existing equipment. See attached make and model of eligible items to be maintained.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004692/132926/22935504-MIBS%20Networking%20Support%20RFP%20.docx",
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004692/132926/22935505-Pecatonica%20Make%20and%20Model.pdf"
+     ]
+    }
+   ]
+  },
+  {
+   "number": "270004694",
+   "funding_year": "2027",
+   "entity_name": "PINCKNEYVILLE SCHOOL DIST 50",
+   "applicant_type": "School District",
+   "billed_entity_number": "136485",
+   "city": "PINCKNEYVILLE",
+   "state": "IL",
+   "website": null,
+   "has_consultant": true,
+   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270004694/136485/22935553-USAC_FCC_FORM_470_APPLICATION_270004694_CERTIFIED.pdf",
+   "rfp_document_urls": [
+    "https://publicdata.usac.org/EPC/Prd/Form470/270004694/136485/22935508-MIBS%20Networking%20Support%20RFP%20.docx",
+    "https://publicdata.usac.org/EPC/Prd/Form470/270004694/136485/22935509-Pinckneyville%20D50%20Make%20and%20Model.pdf"
+   ],
+   "certified_at": "2026-11-15T11:14:38",
+   "last_modified_at": "2026-11-15T11:14:38",
+   "allowable_contract_date": "2026-12-13",
+   "service_requests": [
+    {
+     "id": "1",
+     "category": "Category 2",
+     "service_type": "Managed Internal Broadband Services",
+     "function": "Existing Equipment",
+     "quantity": null,
+     "unit": null,
+     "manufacturer": null,
+     "description": "Manage existing equipment. See attached make and model of eligible items to be maintained.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004694/136485/22935508-MIBS%20Networking%20Support%20RFP%20.docx",
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004694/136485/22935509-Pinckneyville%20D50%20Make%20and%20Model.pdf"
+     ]
+    }
+   ]
+  },
+  {
+   "number": "270004695",
+   "funding_year": "2027",
+   "entity_name": "Clayton School District",
+   "applicant_type": "School District",
+   "billed_entity_number": "123391",
+   "city": "CLAYTON",
+   "state": "NJ",
+   "website": null,
+   "has_consultant": false,
+   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270004695/123391/22935530-USAC_FCC_FORM_470_APPLICATION_270004695_CERTIFIED.pdf",
+   "rfp_document_urls": [],
+   "certified_at": "2026-11-15T11:02:37",
+   "last_modified_at": "2026-11-15T11:02:37",
+   "allowable_contract_date": "2026-12-13",
+   "service_requests": [
+    {
+     "id": "1",
+     "category": "Category 1",
+     "service_type": "Data Transmission and/or Internet Access",
+     "function": "Internet Access and Data Transmission Service",
+     "quantity": "1",
+     "unit": "Each",
+     "manufacturer": null,
+     "description": null,
+     "rfp_document_urls": []
+    }
+   ]
+  },
+  {
+   "number": "270004696",
+   "funding_year": "2027",
+   "entity_name": "ROSSVILLE-ALVIN C U SCH DIST 7",
+   "applicant_type": "School District",
+   "billed_entity_number": "135828",
+   "city": "ROSSVILLE",
+   "state": "IL",
+   "website": null,
+   "has_consultant": true,
+   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270004696/135828/22935559-USAC_FCC_FORM_470_APPLICATION_270004696_CERTIFIED.pdf",
+   "rfp_document_urls": [],
+   "certified_at": "2026-11-15T11:14:54",
+   "last_modified_at": "2026-11-15T11:14:54",
+   "allowable_contract_date": "2026-12-13",
+   "service_requests": [
+    {
+     "id": "1",
+     "category": "Category 1",
+     "service_type": "Data Transmission and/or Internet Access",
+     "function": "Internet Access and Data Transmission Service",
+     "quantity": "1",
+     "unit": "Each",
+     "manufacturer": null,
+     "description": null,
+     "rfp_document_urls": []
+    }
+   ]
+  },
+  {
+   "number": "270004697",
+   "funding_year": "2027",
+   "entity_name": "PINCKNEYVILLE COMM H S DST 101",
+   "applicant_type": "School District",
+   "billed_entity_number": "136486",
+   "city": "PINCKNEYVILLE",
+   "state": "IL",
+   "website": null,
+   "has_consultant": true,
+   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270004697/136486/22935564-USAC_FCC_FORM_470_APPLICATION_270004697_CERTIFIED.pdf",
+   "rfp_document_urls": [
+    "https://publicdata.usac.org/EPC/Prd/Form470/270004697/136486/22935514-MIBS%20Networking%20Support%20RFP%20.docx",
+    "https://publicdata.usac.org/EPC/Prd/Form470/270004697/136486/22935515-Pinckneyville%20D101%20Make%20and%20Model.pdf"
+   ],
+   "certified_at": "2026-11-15T11:15:14",
+   "last_modified_at": "2026-11-15T11:15:14",
+   "allowable_contract_date": "2026-12-13",
+   "service_requests": [
+    {
+     "id": "1",
+     "category": "Category 2",
+     "service_type": "Managed Internal Broadband Services",
+     "function": "Existing Equipment",
+     "quantity": null,
+     "unit": null,
+     "manufacturer": null,
+     "description": "Manage existing equipment. See attached make and model of eligible items to be maintained.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004697/136486/22935514-MIBS%20Networking%20Support%20RFP%20.docx",
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004697/136486/22935515-Pinckneyville%20D101%20Make%20and%20Model.pdf"
+     ]
+    }
+   ]
+  },
+  {
+   "number": "270004699",
+   "funding_year": "2027",
+   "entity_name": "COMMUNITY CONS SCHOOL DIST 204",
+   "applicant_type": "School",
+   "billed_entity_number": "136487",
+   "city": "PINCKNEYVILLE",
+   "state": "IL",
+   "website": "www.ccsd204.org",
+   "has_consultant": true,
+   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270004699/136487/22935633-USAC_FCC_FORM_470_APPLICATION_270004699_CERTIFIED.pdf",
+   "rfp_document_urls": [
+    "https://publicdata.usac.org/EPC/Prd/Form470/270004699/136487/22935520-MIBS%20Networking%20Support%20RFP%20.docx",
+    "https://publicdata.usac.org/EPC/Prd/Form470/270004699/136487/22935625-Pinckneyville%20204%20Make%20and%20Model.pdf"
+   ],
+   "certified_at": "2026-11-15T11:42:12",
+   "last_modified_at": "2026-11-15T11:42:12",
+   "allowable_contract_date": "2026-12-13",
+   "service_requests": [
+    {
+     "id": "1",
+     "category": "Category 2",
+     "service_type": "Managed Internal Broadband Services",
+     "function": "Existing Equipment",
+     "quantity": null,
+     "unit": null,
+     "manufacturer": null,
+     "description": "Manage existing equipment. See attached make and model of eligible items to be maintained.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004699/136487/22935520-MIBS%20Networking%20Support%20RFP%20.docx",
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004699/136487/22935625-Pinckneyville%20204%20Make%20and%20Model.pdf"
+     ]
+    }
+   ]
+  },
+  {
+   "number": "270004700",
+   "funding_year": "2027",
+   "entity_name": "PINCKNEYVILLE PUBLIC LIBRARY",
+   "applicant_type": "Library",
+   "billed_entity_number": "136484",
+   "city": "PINCKNEYVILLE",
+   "state": "IL",
+   "website": null,
+   "has_consultant": true,
+   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270004700/136484/22935580-USAC_FCC_FORM_470_APPLICATION_270004700_CERTIFIED.pdf",
+   "rfp_document_urls": [
+    "https://publicdata.usac.org/EPC/Prd/Form470/270004700/136484/22935531-MIBS%20Networking%20Support%20RFP%20.docx",
+    "https://publicdata.usac.org/EPC/Prd/Form470/270004700/136484/22935532-Pinckneyville%20Library%20Make%20and%20Model.pdf"
+   ],
+   "certified_at": "2026-11-15T11:16:03",
+   "last_modified_at": "2026-11-15T11:16:03",
+   "allowable_contract_date": "2026-12-13",
+   "service_requests": [
+    {
+     "id": "1",
+     "category": "Category 2",
+     "service_type": "Managed Internal Broadband Services",
+     "function": "Existing Equipment",
+     "quantity": null,
+     "unit": null,
+     "manufacturer": null,
+     "description": "Manage existing equipment. See attached make and model of eligible items to be maintained.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004700/136484/22935531-MIBS%20Networking%20Support%20RFP%20.docx",
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004700/136484/22935532-Pinckneyville%20Library%20Make%20and%20Model.pdf"
+     ]
+    }
+   ]
+  },
+  {
+   "number": "270004701",
+   "funding_year": "2027",
+   "entity_name": "PLEASANT HILL C U SCH DIST 3",
+   "applicant_type": "School District",
+   "billed_entity_number": "136539",
+   "city": "PLEASANT HILL",
+   "state": "IL",
+   "website": null,
+   "has_consultant": true,
+   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270004701/136539/22935574-USAC_FCC_FORM_470_APPLICATION_270004701_CERTIFIED.pdf",
+   "rfp_document_urls": [
+    "https://publicdata.usac.org/EPC/Prd/Form470/270004701/136539/22935535-MIBS%20Networking%20Support%20RFP%20.docx",
+    "https://publicdata.usac.org/EPC/Prd/Form470/270004701/136539/22935536-Pleasant%20Hill%20Make%20and%20Model.docx.pdf"
+   ],
+   "certified_at": "2026-11-15T11:15:50",
+   "last_modified_at": "2026-11-15T11:15:50",
+   "allowable_contract_date": "2026-12-13",
+   "service_requests": [
+    {
+     "id": "1",
+     "category": "Category 2",
+     "service_type": "Managed Internal Broadband Services",
+     "function": "Existing Equipment",
+     "quantity": null,
+     "unit": null,
+     "manufacturer": null,
+     "description": "Manage existing equipment. See attached make and model of eligible items to be maintained.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004701/136539/22935535-MIBS%20Networking%20Support%20RFP%20.docx",
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004701/136539/22935536-Pleasant%20Hill%20Make%20and%20Model.docx.pdf"
+     ]
+    }
+   ]
+  },
+  {
+   "number": "270004702",
+   "funding_year": "2027",
+   "entity_name": "UNITY POINT CC SCHOOL DIST 140",
+   "applicant_type": "School District",
+   "billed_entity_number": "136797",
+   "city": "CARBONDALE",
+   "state": "IL",
+   "website": "http://www.up140.org/",
+   "has_consultant": true,
+   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270004702/136797/22935645-USAC_FCC_FORM_470_APPLICATION_270004702_CERTIFIED.pdf",
+   "rfp_document_urls": [
+    "https://publicdata.usac.org/EPC/Prd/Form470/270004702/136797/22935634-MIBS%20Networking%20Support%20RFP%20.docx",
+    "https://publicdata.usac.org/EPC/Prd/Form470/270004702/136797/22935635-Unity%20Point%20Make%20and%20Model.pdf"
+   ],
+   "certified_at": "2026-11-15T12:04:57",
+   "last_modified_at": "2026-11-15T12:04:57",
+   "allowable_contract_date": "2026-12-13",
+   "service_requests": [
+    {
+     "id": "1",
+     "category": "Category 2",
+     "service_type": "Managed Internal Broadband Services",
+     "function": "Existing Equipment",
+     "quantity": null,
+     "unit": null,
+     "manufacturer": null,
+     "description": "Manage existing equipment. See attached make and model of eligible items to be maintained.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004702/136797/22935634-MIBS%20Networking%20Support%20RFP%20.docx",
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004702/136797/22935635-Unity%20Point%20Make%20and%20Model.pdf"
+     ]
+    }
+   ]
+  },
+  {
+   "number": "270004705",
+   "funding_year": "2027",
+   "entity_name": "MICHIGAN CITY AREA SCHOOLS",
+   "applicant_type": "School District",
+   "billed_entity_number": "130319",
+   "city": "MICHIGAN CITY",
+   "state": "IN",
+   "website": "http://www.mcas.k12.in.us/",
+   "has_consultant": true,
+   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270004705/130319/22935830-USAC_FCC_FORM_470_APPLICATION_270004705_CERTIFIED.pdf",
+   "rfp_document_urls": [
+    "https://publicdata.usac.org/EPC/Prd/Form470/270004705/130319/22935814-RFP%20MCAS%20CAT%202%20FY2027.pdf"
+   ],
+   "certified_at": "2026-11-15T16:28:32",
+   "last_modified_at": "2026-11-15T16:28:32",
+   "allowable_contract_date": "2026-12-13",
+   "service_requests": [
+    {
+     "id": "1",
+     "category": "Category 2",
+     "service_type": "Basic Maintenance of Internal Connections",
+     "function": "Firewall Service and Components",
+     "quantity": "1",
+     "unit": "Each",
+     "manufacturer": "Fortinet",
+     "description": "Michigan City Area Schools seek proposals for a Firewall licenses for Fortigate 1100E, WatchDog support, licenses and reinstatement fees for licenses and controller for the district.  Please see RFP for more details",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004705/130319/22935814-RFP%20MCAS%20CAT%202%20FY2027.pdf"
+     ]
+    },
+    {
+     "id": "2",
+     "category": "Category 2",
+     "service_type": "Basic Maintenance of Internal Connections",
+     "function": "Wireless Access Points",
+     "quantity": "583",
+     "unit": "Each",
+     "manufacturer": "Ruckus Wireless",
+     "description": "Michigan City Area Schools seek proposals for a Firewall licenses for Fortigate 1100E, WatchDog support, licenses and reinstatement fees for licenses and controller for the district.  Please see RFP for more details",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004705/130319/22935814-RFP%20MCAS%20CAT%202%20FY2027.pdf"
+     ]
+    },
+    {
+     "id": "3",
+     "category": "Category 2",
+     "service_type": "Basic Maintenance of Internal Connections",
+     "function": "Wireless Controllers",
+     "quantity": "1",
+     "unit": "Each",
+     "manufacturer": "Ruckus Wireless",
+     "description": "Michigan City Area Schools seek proposals for a Firewall licenses for Fortigate 1100E, WatchDog support, licenses and reinstatement fees for licenses and controller for the district.  Please see RFP for more details",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004705/130319/22935814-RFP%20MCAS%20CAT%202%20FY2027.pdf"
+     ]
+    },
+    {
+     "id": "4",
+     "category": "Category 2",
+     "service_type": "Basic Maintenance of Internal Connections",
+     "function": "Wireless Access Points",
+     "quantity": "583",
+     "unit": "Each",
+     "manufacturer": "Ruckus Wireless",
+     "description": "Michigan City Area Schools seek proposals for a Firewall licenses for Fortigate 1100E, WatchDog support, licenses and reinstatement fees for licenses and controller for the district.  Please see RFP for more details",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004705/130319/22935814-RFP%20MCAS%20CAT%202%20FY2027.pdf"
+     ]
+    },
+    {
+     "id": "5",
+     "category": "Category 2",
+     "service_type": "Basic Maintenance of Internal Connections",
+     "function": "Wireless Controllers",
+     "quantity": "1",
+     "unit": "Each",
+     "manufacturer": "Ruckus Wireless",
+     "description": "Michigan City Area Schools seek proposals for a Firewall licenses for Fortigate 1100E, WatchDog support, licenses and reinstatement fees for licenses and controller for the district.  Please see RFP for more details",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270004705/130319/22935814-RFP%20MCAS%20CAT%202%20FY2027.pdf"
+     ]
+    }
+   ]
+  },
+  {
+   "number": "270004710",
+   "funding_year": "2027",
+   "entity_name": "WINDHAM SCHOOL DISTRICT",
+   "applicant_type": "School District",
+   "billed_entity_number": "120929",
+   "city": "WINDHAM",
+   "state": "NH",
+   "website": null,
+   "has_consultant": true,
+   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270004710/120929/22935971-USAC_FCC_FORM_470_APPLICATION_270004710_CERTIFIED.pdf",
+   "rfp_document_urls": [],
+   "certified_at": "2026-11-15T19:34:18",
+   "last_modified_at": "2026-11-15T19:34:18",
+   "allowable_contract_date": "2026-12-13",
+   "service_requests": [
+    {
+     "id": "1",
+     "category": "Category 1",
+     "service_type": "Data Transmission and/or Internet Access",
+     "function": "Internet Access and Data Transmission Service",
+     "quantity": "1",
+     "unit": "Each",
+     "manufacturer": null,
+     "description": null,
      "rfp_document_urls": []
     }
    ]

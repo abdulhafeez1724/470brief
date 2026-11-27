@@ -1,6 +1,6 @@
 {
  "funding_year": "2027",
- "count": 4061,
+ "count": 4063,
  "forms": [
   {
    "number": "270000001",
@@ -266368,6 +266368,81 @@
      "description": "Ridgeland School District 122 is seeking bids via a formal Request for Proposals (RFP) for an enterprise firewall solution and associated Managed Internal Broadband Services (MIBS) supporting 6 total locations (5 instructional school sites and 1 District Administrative office).Requested components include Fortinet FortiGate 701G firewall hardware/licensing (or equivalent) under Internal Connections, alongside managed logging, analytics, and monitoring services equivalent to FortiAnalyzer-VM and FortiGate SOCaaS under MIBS.All brand names and part numbers referenced in this Form 470 and the attached RFP are for baseline technical specification purposes only; equivalent solutions from any manufacturer will be accepted and evaluated equally.Please refer to the attached RFP in the E-Rate Productivity Center (EPC) for full technical requirements, site addresses, contract term options, bidding instructions, and mandatory E-Rate cost-allocation itemization rules. All proposals must be submitted in accordance with the RFP timeline.MIBS:  1\tEach\tFortinet\tFC-10-G7H1G-464-02-12\tSOC-as-a-Service - subscription license renewal                 (1 year) - 1 license (or equivalent)1\tEach\tFortinet\tFC2-10-AZVMS-1137-01-12\tFortiCare Elite - technical support - for FortiAnalyzer VM - 1 year (or equivalent)5\tEach\tFortinet\tFC1-10-AZVMS-1137-01-12\tFortiCare Elite - technical support - for FortiAnalyzer VM - 1 year (or equivalent)",
      "rfp_document_urls": [
       "https://publicdata.usac.org/EPC/Prd/Form470/270005930/135608/22981674-RFP%20FY2027%20No.%20270005930%20Ridgeland.docx"
+     ]
+    }
+   ]
+  },
+  {
+   "number": "270005931",
+   "funding_year": "2027",
+   "entity_name": "Horizon Science Academy Cleveland High School",
+   "applicant_type": "School",
+   "billed_entity_number": "222203",
+   "city": "Cleveland",
+   "state": "OH",
+   "website": "www.hsas.org",
+   "has_consultant": true,
+   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270005931/222203/22981837-USAC_FCC_FORM_470_APPLICATION_270005931_CERTIFIED.pdf",
+   "rfp_document_urls": [],
+   "certified_at": "2026-11-25T23:15:06",
+   "last_modified_at": "2026-11-25T23:15:06",
+   "allowable_contract_date": "2026-12-23",
+   "service_requests": [
+    {
+     "id": "1",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Switches and Necessary Software and Licenses",
+     "quantity": "4",
+     "unit": "Each",
+     "manufacturer": "Ubiquiti or equivalent",
+     "description": "(4) Ubiquiti USW-PRO-XG-48-POE 48-Port Layer 3 Etherlighting PoE+++ Switch with 32x 10GbE, 16x 2.5GbE PoE, and 4x 25G SFP28 Ports, 1080W",
+     "rfp_document_urls": []
+    }
+   ]
+  },
+  {
+   "number": "270005932",
+   "funding_year": "2027",
+   "entity_name": "COLUMBIA SCHOOL DISTRICT",
+   "applicant_type": "School District",
+   "billed_entity_number": "128673",
+   "city": "COLUMBIA",
+   "state": "MS",
+   "website": "www.columbiachools.org",
+   "has_consultant": true,
+   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270005932/128673/22982302-USAC_FCC_FORM_470_APPLICATION_270005932_CERTIFIED.pdf",
+   "rfp_document_urls": [
+    "https://publicdata.usac.org/EPC/Prd/Form470/270005932/128673/22982239-Columbia_RFP_FY20272028_C1_WAN_Internet.pdf"
+   ],
+   "certified_at": "2026-11-26T11:10:21",
+   "last_modified_at": "2026-11-26T11:10:21",
+   "allowable_contract_date": "2026-12-24",
+   "service_requests": [
+    {
+     "id": "1",
+     "category": "Category 1",
+     "service_type": "Data Transmission and/or Internet Access",
+     "function": "Internet Access and Data Transmission Service",
+     "quantity": "11",
+     "unit": "Each",
+     "manufacturer": null,
+     "description": null,
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270005932/128673/22982239-Columbia_RFP_FY20272028_C1_WAN_Internet.pdf"
+     ]
+    },
+    {
+     "id": "2",
+     "category": "Category 1",
+     "service_type": "Data Transmission and/or Internet Access",
+     "function": "Standalone Internet Access Service",
+     "quantity": null,
+     "unit": null,
+     "manufacturer": null,
+     "description": null,
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270005932/128673/22982239-Columbia_RFP_FY20272028_C1_WAN_Internet.pdf"
      ]
     }
    ]

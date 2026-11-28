@@ -1,6 +1,6 @@
 {
  "funding_year": "2027",
- "count": 4063,
+ "count": 4076,
  "forms": [
   {
    "number": "270000001",
@@ -60400,12 +60400,13 @@
    "state": "CA",
    "website": "www.kaiming.org",
    "has_consultant": true,
-   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270001416/17000166/22781588-USAC_FCC_FORM_470_APPLICATION_270001416_CERTIFIED.pdf",
+   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270001416/17000166/22983361-USAC_FCC_FORM_470_APPLICATION_270001416_CERTIFIED.pdf",
    "rfp_document_urls": [
-    "https://publicdata.usac.org/EPC/Prd/Form470/270001416/17000166/22781506-KM%20FY2026%20C1%20ISP%20WAN%20Final.pdf"
+    "https://publicdata.usac.org/EPC/Prd/Form470/270001416/17000166/22781506-KM%20FY2026%20C1%20ISP%20WAN%20Final.pdf",
+    "https://publicdata.usac.org/EPC/Prd/Form470/270001416/17000166/22983358-KMHS%20FY2027%20Nov%2027%20addendum%201.pdf"
    ],
    "certified_at": "2026-10-20T12:25:35",
-   "last_modified_at": "2026-10-20T12:25:35",
+   "last_modified_at": "2026-11-27T12:42:00",
    "allowable_contract_date": "2026-11-17",
    "service_requests": [
     {
@@ -60418,7 +60419,8 @@
      "manufacturer": null,
      "description": null,
      "rfp_document_urls": [
-      "https://publicdata.usac.org/EPC/Prd/Form470/270001416/17000166/22781506-KM%20FY2026%20C1%20ISP%20WAN%20Final.pdf"
+      "https://publicdata.usac.org/EPC/Prd/Form470/270001416/17000166/22781506-KM%20FY2026%20C1%20ISP%20WAN%20Final.pdf",
+      "https://publicdata.usac.org/EPC/Prd/Form470/270001416/17000166/22983358-KMHS%20FY2027%20Nov%2027%20addendum%201.pdf"
      ]
     }
    ]
@@ -153586,11 +153588,13 @@
    "state": "WI",
    "website": null,
    "has_consultant": true,
-   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270003352/60583/22873079-USAC_FCC_FORM_470_APPLICATION_270003352_CERTIFIED.pdf",
-   "rfp_document_urls": [],
+   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270003352/60583/22982976-USAC_FCC_FORM_470_APPLICATION_270003352_CERTIFIED.pdf",
+   "rfp_document_urls": [
+    "https://publicdata.usac.org/EPC/Prd/Form470/270003352/60583/22982974-Please%20add%20a%20firewall%20to%20the%20leased%20managed%20solution.docx"
+   ],
    "certified_at": "2026-11-03T09:14:47",
-   "last_modified_at": "2026-11-03T09:14:47",
-   "allowable_contract_date": "2026-12-01",
+   "last_modified_at": "2026-11-27T08:41:50",
+   "allowable_contract_date": "2026-12-25",
    "service_requests": [
     {
      "id": "1",
@@ -153601,7 +153605,9 @@
      "unit": null,
      "manufacturer": null,
      "description": "Management of existing network including; 1) Sonicwall TZ670, (1) Netgear GS752TPP switch, (1) Netgear GS748T switch, and (10) HP Aruba 505 Wireless Access Points.  This is not for new equipment or licensing.  onsite service ability is required.  All questions and bids concerning this 470 should be directed to the person listed as general contact and should be made ONLY via email.  All bids should clearly delineate any non-E-Rate eligible items. Generic bids that are not specific to this application will not be considered. Failure to follow instructions may result in disqualification of the bid. Any FOIA request concerning awards based on this 470 must be directed to the listed general contact and will incur an administration fee of $250 to compensate for time and materials related to the fulfillment of the request.",
-     "rfp_document_urls": []
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270003352/60583/22982974-Please%20add%20a%20firewall%20to%20the%20leased%20managed%20solution.docx"
+     ]
     }
    ]
   },
@@ -178369,13 +178375,14 @@
    "state": "AZ",
    "website": null,
    "has_consultant": true,
-   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270003889/17016835/22899470-USAC_FCC_FORM_470_APPLICATION_270003889_CERTIFIED.pdf",
+   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270003889/17016835/22983462-USAC_FCC_FORM_470_APPLICATION_270003889_CERTIFIED.pdf",
    "rfp_document_urls": [
+    "https://publicdata.usac.org/EPC/Prd/Form470/270003889/17016835/22983460-270003889%20_%20QnA%201.docx",
     "https://publicdata.usac.org/EPC/Prd/Form470/270003889/17016835/22899396-ZZZ%20This%20document%20is%20a%20placeholder%20should%20further%20attachments%20be%20required%20at%20later%20date.docx"
    ],
    "certified_at": "2026-11-06T14:09:41",
-   "last_modified_at": "2026-11-06T14:09:41",
-   "allowable_contract_date": "2026-12-04",
+   "last_modified_at": "2026-11-27T14:02:29",
+   "allowable_contract_date": "2026-12-25",
    "service_requests": [
     {
      "id": "1",
@@ -178387,6 +178394,7 @@
      "manufacturer": null,
      "description": null,
      "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270003889/17016835/22983460-270003889%20_%20QnA%201.docx",
       "https://publicdata.usac.org/EPC/Prd/Form470/270003889/17016835/22899396-ZZZ%20This%20document%20is%20a%20placeholder%20should%20further%20attachments%20be%20required%20at%20later%20date.docx"
      ]
     }
@@ -229029,6 +229037,35 @@
    ]
   },
   {
+   "number": "270005047",
+   "funding_year": "2027",
+   "entity_name": "TEMIMA HIGH SCHOOL FOR GIRLS",
+   "applicant_type": "School",
+   "billed_entity_number": "194972",
+   "city": "ATLANTA",
+   "state": "GA",
+   "website": "www.temima.org",
+   "has_consultant": true,
+   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270005047/194972/22983468-USAC_FCC_FORM_470_APPLICATION_270005047_CERTIFIED.pdf",
+   "rfp_document_urls": [],
+   "certified_at": "2026-11-27T14:20:17",
+   "last_modified_at": "2026-11-27T14:20:17",
+   "allowable_contract_date": "2026-12-25",
+   "service_requests": [
+    {
+     "id": "1",
+     "category": "Category 1",
+     "service_type": "Data Transmission and/or Internet Access",
+     "function": "Internet Access and Data Transmission Service",
+     "quantity": "1",
+     "unit": "Each",
+     "manufacturer": null,
+     "description": null,
+     "rfp_document_urls": []
+    }
+   ]
+  },
+  {
    "number": "270005048",
    "funding_year": "2027",
    "entity_name": "Christ the King Catholic School",
@@ -230250,6 +230287,35 @@
    ]
   },
   {
+   "number": "270005082",
+   "funding_year": "2027",
+   "entity_name": "Rock County Christian School",
+   "applicant_type": "School District",
+   "billed_entity_number": "17005190",
+   "city": "Beloit",
+   "state": "WI",
+   "website": "www.rccs.us",
+   "has_consultant": true,
+   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270005082/17005190/22983516-USAC_FCC_FORM_470_APPLICATION_270005082_CERTIFIED.pdf",
+   "rfp_document_urls": [],
+   "certified_at": "2026-11-27T14:22:53",
+   "last_modified_at": "2026-11-27T14:22:53",
+   "allowable_contract_date": "2026-12-25",
+   "service_requests": [
+    {
+     "id": "1",
+     "category": "Category 1",
+     "service_type": "Data Transmission and/or Internet Access",
+     "function": "Internet Access and Data Transmission Service",
+     "quantity": "1",
+     "unit": "Each",
+     "manufacturer": null,
+     "description": null,
+     "rfp_document_urls": []
+    }
+   ]
+  },
+  {
    "number": "270005085",
    "funding_year": "2027",
    "entity_name": "SHIAWASSEE REGIONAL E S D",
@@ -230318,6 +230384,35 @@
      "rfp_document_urls": [
       "https://publicdata.usac.org/EPC/Prd/Form470/270005085/131187/22948693-SRESD%20Network%20Equipment%202027%20RFP.pdf"
      ]
+    }
+   ]
+  },
+  {
+   "number": "270005086",
+   "funding_year": "2027",
+   "entity_name": "Darchai Menachem School District",
+   "applicant_type": "School District",
+   "billed_entity_number": "17034656",
+   "city": "Brooklyn",
+   "state": "NY",
+   "website": "www.darchaimenachem.com",
+   "has_consultant": true,
+   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270005086/17034656/22983509-USAC_FCC_FORM_470_APPLICATION_270005086_CERTIFIED.pdf",
+   "rfp_document_urls": [],
+   "certified_at": "2026-11-27T14:22:42",
+   "last_modified_at": "2026-11-27T14:22:42",
+   "allowable_contract_date": "2026-12-25",
+   "service_requests": [
+    {
+     "id": "1",
+     "category": "Category 1",
+     "service_type": "Data Transmission and/or Internet Access",
+     "function": "Internet Access and Data Transmission Service",
+     "quantity": "3",
+     "unit": "Each",
+     "manufacturer": null,
+     "description": null,
+     "rfp_document_urls": []
     }
    ]
   },
@@ -231485,6 +231580,57 @@
    ]
   },
   {
+   "number": "270005117",
+   "funding_year": "2027",
+   "entity_name": "TEMIMA HIGH SCHOOL FOR GIRLS",
+   "applicant_type": "School",
+   "billed_entity_number": "194972",
+   "city": "ATLANTA",
+   "state": "GA",
+   "website": "www.temima.org",
+   "has_consultant": true,
+   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270005117/194972/22983514-USAC_FCC_FORM_470_APPLICATION_270005117_CERTIFIED.pdf",
+   "rfp_document_urls": [],
+   "certified_at": "2026-11-27T14:22:47",
+   "last_modified_at": "2026-11-27T14:22:47",
+   "allowable_contract_date": "2026-12-25",
+   "service_requests": [
+    {
+     "id": "1",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Switches and Necessary Software and Licenses",
+     "quantity": "8",
+     "unit": "Each",
+     "manufacturer": "No Preference",
+     "description": "Network equipment for one school building at 1839 LaVista Road, Atlanta, GA 30329 (about 84 students): up to 8 PoE network switches, one basic firewall appliance (content filtering is not part of this request), and up to 5,000 feet of data cabling with drops, patch panels and connectors, all with installation and initial configuration. Quantities are estimates; final quantities confirmed after a site visit, and vendors may schedule a walk-through. Any brand or equivalent is acceptable. Please itemize make, model, quantity and unit price. Walk-throughs and questions: Abe Chervitz, E-Rate Path, [redacted].",
+     "rfp_document_urls": []
+    },
+    {
+     "id": "2",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Firewall Service, Components, and Necessary Software and Licenses",
+     "quantity": "1",
+     "unit": "Each",
+     "manufacturer": "No Preference",
+     "description": "Network equipment for one school building at 1839 LaVista Road, Atlanta, GA 30329 (about 84 students): up to 8 PoE network switches, one basic firewall appliance (content filtering is not part of this request), and up to 5,000 feet of data cabling with drops, patch panels and connectors, all with installation and initial configuration. Quantities are estimates; final quantities confirmed after a site visit, and vendors may schedule a walk-through. Any brand or equivalent is acceptable. Please itemize make, model, quantity and unit price. Walk-throughs and questions: Abe Chervitz, E-Rate Path, [redacted].",
+     "rfp_document_urls": []
+    },
+    {
+     "id": "3",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Cabling",
+     "quantity": "5000",
+     "unit": "Feet",
+     "manufacturer": "No Preference",
+     "description": "Network equipment for one school building at 1839 LaVista Road, Atlanta, GA 30329 (about 84 students): up to 8 PoE network switches, one basic firewall appliance (content filtering is not part of this request), and up to 5,000 feet of data cabling with drops, patch panels and connectors, all with installation and initial configuration. Quantities are estimates; final quantities confirmed after a site visit, and vendors may schedule a walk-through. Any brand or equivalent is acceptable. Please itemize make, model, quantity and unit price. Walk-throughs and questions: Abe Chervitz, E-Rate Path, [redacted].",
+     "rfp_document_urls": []
+    }
+   ]
+  },
+  {
    "number": "270005119",
    "funding_year": "2027",
    "entity_name": "HARTFORD PUBLIC SCHOOLS",
@@ -231568,6 +231714,35 @@
      "unit": "Each",
      "manufacturer": null,
      "description": null,
+     "rfp_document_urls": []
+    }
+   ]
+  },
+  {
+   "number": "270005122",
+   "funding_year": "2027",
+   "entity_name": "Rock County Christian School",
+   "applicant_type": "School District",
+   "billed_entity_number": "17005190",
+   "city": "Beloit",
+   "state": "WI",
+   "website": "www.rccs.us",
+   "has_consultant": true,
+   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270005122/17005190/22983524-USAC_FCC_FORM_470_APPLICATION_270005122_CERTIFIED.pdf",
+   "rfp_document_urls": [],
+   "certified_at": "2026-11-27T14:27:32",
+   "last_modified_at": "2026-11-27T14:27:32",
+   "allowable_contract_date": "2026-12-25",
+   "service_requests": [
+    {
+     "id": "1",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Wireless Access Points and Necessary Software and Licenses",
+     "quantity": "15",
+     "unit": "Each",
+     "manufacturer": "No Preference",
+     "description": "Wi-Fi for one school building at 1524 Frederick St., Beloit, WI 53511 (about 211 students; the school's two campuses consolidate into this building at the end of December 2026): up to 15 indoor wireless access points with installation and initial configuration. The school runs an existing Ubiquiti UniFi network, so access points must integrate with the existing controller; Ubiquiti UniFi or equivalent is acceptable. No switches or cabling are requested. Quantities are estimates; walk-throughs are welcome from January 2027, after the move. Please itemize make, model, quantity and unit price. Walk-throughs and questions: Abe Chervitz, E-Rate Path, [redacted].",
      "rfp_document_urls": []
     }
    ]
@@ -234635,6 +234810,35 @@
    ]
   },
   {
+   "number": "270005178",
+   "funding_year": "2027",
+   "entity_name": "Panama City Trilingual School",
+   "applicant_type": "School",
+   "billed_entity_number": "17029107",
+   "city": "PANAMA CITY",
+   "state": "FL",
+   "website": "https://www.pctrilingual.com/",
+   "has_consultant": true,
+   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270005178/17029107/22983503-USAC_FCC_FORM_470_APPLICATION_270005178_CERTIFIED.pdf",
+   "rfp_document_urls": [],
+   "certified_at": "2026-11-27T14:22:37",
+   "last_modified_at": "2026-11-27T14:22:37",
+   "allowable_contract_date": "2026-12-25",
+   "service_requests": [
+    {
+     "id": "1",
+     "category": "Category 1",
+     "service_type": "Data Transmission and/or Internet Access",
+     "function": "Internet Access and Data Transmission Service",
+     "quantity": "1",
+     "unit": "Each",
+     "manufacturer": null,
+     "description": null,
+     "rfp_document_urls": []
+    }
+   ]
+  },
+  {
    "number": "270005180",
    "funding_year": "2027",
    "entity_name": "VALENTINE INDEPENDENT SCHOOL",
@@ -235455,150 +235659,6 @@
    ]
   },
   {
-   "number": "270005195",
-   "funding_year": "2027",
-   "entity_name": "BURLINGAME UNIF SCH DIST 454",
-   "applicant_type": "School District",
-   "billed_entity_number": "137628",
-   "city": "BURLINGAME",
-   "state": "KS",
-   "website": null,
-   "has_consultant": true,
-   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270005195/137628/22960356-USAC_FCC_FORM_470_APPLICATION_270005195_CERTIFIED.pdf",
-   "rfp_document_urls": [
-    "https://publicdata.usac.org/EPC/Prd/Form470/270005195/137628/22960327-Burlingame%20USD%20454%202027%20AP%20and%20Cabling%20RFP.pdf"
-   ],
-   "certified_at": "2026-11-20T07:48:43",
-   "last_modified_at": "2026-11-20T07:48:43",
-   "allowable_contract_date": "2026-12-18",
-   "service_requests": [
-    {
-     "id": "1",
-     "category": "Category 2",
-     "service_type": "Internal Connections",
-     "function": "Wireless Access Points and Necessary Software and Licenses",
-     "quantity": "29",
-     "unit": "Each",
-     "manufacturer": "Ubiquiti or equivalent",
-     "description": "33 wireless access points, cabling and connectors.  See RFP documents for full details.",
-     "rfp_document_urls": [
-      "https://publicdata.usac.org/EPC/Prd/Form470/270005195/137628/22960327-Burlingame%20USD%20454%202027%20AP%20and%20Cabling%20RFP.pdf"
-     ]
-    },
-    {
-     "id": "2",
-     "category": "Category 2",
-     "service_type": "Basic Maintenance of Internal Connections",
-     "function": "Wireless Access Points",
-     "quantity": "29",
-     "unit": "Each",
-     "manufacturer": "Ubiquiti",
-     "description": "33 wireless access points, cabling and connectors.  See RFP documents for full details.",
-     "rfp_document_urls": [
-      "https://publicdata.usac.org/EPC/Prd/Form470/270005195/137628/22960327-Burlingame%20USD%20454%202027%20AP%20and%20Cabling%20RFP.pdf"
-     ]
-    },
-    {
-     "id": "3",
-     "category": "Category 2",
-     "service_type": "Internal Connections",
-     "function": "Wireless Access Points and Necessary Software and Licenses",
-     "quantity": "4",
-     "unit": "Each",
-     "manufacturer": "Ubiquiti or equivalent",
-     "description": "33 wireless access points, cabling and connectors.  See RFP documents for full details.",
-     "rfp_document_urls": [
-      "https://publicdata.usac.org/EPC/Prd/Form470/270005195/137628/22960327-Burlingame%20USD%20454%202027%20AP%20and%20Cabling%20RFP.pdf"
-     ]
-    },
-    {
-     "id": "4",
-     "category": "Category 2",
-     "service_type": "Basic Maintenance of Internal Connections",
-     "function": "Wireless Access Points",
-     "quantity": "4",
-     "unit": "Each",
-     "manufacturer": "Ubiquiti",
-     "description": "33 wireless access points, cabling and connectors.  See RFP documents for full details.",
-     "rfp_document_urls": [
-      "https://publicdata.usac.org/EPC/Prd/Form470/270005195/137628/22960327-Burlingame%20USD%20454%202027%20AP%20and%20Cabling%20RFP.pdf"
-     ]
-    },
-    {
-     "id": "5",
-     "category": "Category 2",
-     "service_type": "Internal Connections",
-     "function": "Cabling",
-     "quantity": "500",
-     "unit": "Feet",
-     "manufacturer": "No Preference",
-     "description": "33 wireless access points, cabling and connectors.  See RFP documents for full details.",
-     "rfp_document_urls": [
-      "https://publicdata.usac.org/EPC/Prd/Form470/270005195/137628/22960327-Burlingame%20USD%20454%202027%20AP%20and%20Cabling%20RFP.pdf"
-     ]
-    },
-    {
-     "id": "6",
-     "category": "Category 2",
-     "service_type": "Internal Connections",
-     "function": "Antennas, Connectors, and Related Components",
-     "quantity": "400",
-     "unit": "Each",
-     "manufacturer": "No Preference",
-     "description": "33 wireless access points, cabling and connectors.  See RFP documents for full details.",
-     "rfp_document_urls": [
-      "https://publicdata.usac.org/EPC/Prd/Form470/270005195/137628/22960327-Burlingame%20USD%20454%202027%20AP%20and%20Cabling%20RFP.pdf"
-     ]
-    }
-   ]
-  },
-  {
-   "number": "270005196",
-   "funding_year": "2027",
-   "entity_name": "BURLINGAME UNIF SCH DIST 454",
-   "applicant_type": "School District",
-   "billed_entity_number": "137628",
-   "city": "BURLINGAME",
-   "state": "KS",
-   "website": null,
-   "has_consultant": true,
-   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270005196/137628/22960368-USAC_FCC_FORM_470_APPLICATION_270005196_CERTIFIED.pdf",
-   "rfp_document_urls": [
-    "https://publicdata.usac.org/EPC/Prd/Form470/270005196/137628/22960338-Burlingame%20USD%20454%202027%20UPS_s%20RFP.pdf"
-   ],
-   "certified_at": "2026-11-20T07:49:11",
-   "last_modified_at": "2026-11-20T07:49:11",
-   "allowable_contract_date": "2026-12-18",
-   "service_requests": [
-    {
-     "id": "1",
-     "category": "Category 2",
-     "service_type": "Internal Connections",
-     "function": "Uninterruptable Power Supply/Battery Backup and Necessary Software and Licenses",
-     "quantity": "4",
-     "unit": "Each",
-     "manufacturer": "Eaton or equivalent",
-     "description": "4 UPSs. See RFP for full details.",
-     "rfp_document_urls": [
-      "https://publicdata.usac.org/EPC/Prd/Form470/270005196/137628/22960338-Burlingame%20USD%20454%202027%20UPS_s%20RFP.pdf"
-     ]
-    },
-    {
-     "id": "2",
-     "category": "Category 2",
-     "service_type": "Basic Maintenance of Internal Connections",
-     "function": "Uninterruptable Power Supply/Battery Backup",
-     "quantity": "4",
-     "unit": "Each",
-     "manufacturer": "Eaton",
-     "description": "4 UPSs. See RFP for full details.",
-     "rfp_document_urls": [
-      "https://publicdata.usac.org/EPC/Prd/Form470/270005196/137628/22960338-Burlingame%20USD%20454%202027%20UPS_s%20RFP.pdf"
-     ]
-    }
-   ]
-  },
-  {
    "number": "270005198",
    "funding_year": "2027",
    "entity_name": "ST CATHERINE SCHOOL OF SIENA",
@@ -235795,6 +235855,104 @@
      "unit": "Each",
      "manufacturer": "Ubiquiti",
      "description": "Firewall Service & Components(1) Firewall appliance that supports 25Gbps throughput with Application ID, Intrusion Detection and Prevention (IDS/IPS), Content Filtering, and Ad Blocking for enhanced network protection. Equivalent to Ubiquiti Dream Machine Beast.Include 3-year licensing.Include labor for installation and configuration.Separate E-Rate eligible and ineligible costs.______THIS PROCUREMENT IS NOT A FORMAL SEALED BID/RFP PROCESS. There are no state or local restrictions or regulations on how service providers can contact the District's technology or business manager. Arizona State Procurement Code requires a formal sealed bidding process; or purchasing from an IGA, State Master Contract, other approved cooperative purchasing contract, or compliant consortium procured contract for any procurement in excess of $100,000.00. Any quote/proposal whose total value exceeds $100,000.00 and is not linked to a current State Master Contract, other approved cooperative purchasing contract, or a compliant consortium procured contract will be disqualified by Arizona State Procurement Code. Any quotes must  comply with the underlying state master/cooperative purchasing agreement in pricing and terms. Any quote/proposal submitted that does not specifically address the services requested, is generic in nature or otherwise does not meet the requirements contained in this Form 470 and associated specifications may be considered non-responsive and may be disqualified. SPAM and/or robotic responses will not be considered valid bid responses and will be disqualified from consideration. All original contracts offered that are less than a 60 month term should include specifications that allow for annual one year extensions and/or month to month extensions at the discretion of the applicant; not to exceed a total of 60 months. Please quote all eligible and ineligible products/services separately. Any pricing proposed must comply with the FCC Lowest Corresponding Price Rule as required by the Universal Service First Report and Order, and restated in the FCC E-Rate Modernization Report and Order, adopted July 11, 2014. The FCC Lowest Corresponding Price rule prohibits an E-rate services offeror from offering or charging E-rate applicants a price higher than the lowest price that the offeror charges to non-residential customers who are similarly situated to a particular school, library, rural health care provider or consortium that purchase directly from the offeror.",
+     "rfp_document_urls": []
+    }
+   ]
+  },
+  {
+   "number": "270005202",
+   "funding_year": "2027",
+   "entity_name": "OHR HATORAH YESHIVAH BOYS HIGH SCHOOL",
+   "applicant_type": "School",
+   "billed_entity_number": "17037336",
+   "city": "HOLLYWOOD",
+   "state": "FL",
+   "website": null,
+   "has_consultant": true,
+   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270005202/17037336/22983484-USAC_FCC_FORM_470_APPLICATION_270005202_CERTIFIED.pdf",
+   "rfp_document_urls": [],
+   "certified_at": "2026-11-27T14:22:21",
+   "last_modified_at": "2026-11-27T14:22:21",
+   "allowable_contract_date": "2026-12-25",
+   "service_requests": [
+    {
+     "id": "1",
+     "category": "Category 1",
+     "service_type": "Data Transmission and/or Internet Access",
+     "function": "Internet Access and Data Transmission Service",
+     "quantity": "1",
+     "unit": "Each",
+     "manufacturer": null,
+     "description": null,
+     "rfp_document_urls": []
+    }
+   ]
+  },
+  {
+   "number": "270005203",
+   "funding_year": "2027",
+   "entity_name": "HEBREW ACADEMY/MARGATE",
+   "applicant_type": "School",
+   "billed_entity_number": "36549",
+   "city": "MARGATE",
+   "state": "FL",
+   "website": null,
+   "has_consultant": true,
+   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270005203/36549/22983474-USAC_FCC_FORM_470_APPLICATION_270005203_CERTIFIED.pdf",
+   "rfp_document_urls": [],
+   "certified_at": "2026-11-27T14:21:56",
+   "last_modified_at": "2026-11-27T14:21:56",
+   "allowable_contract_date": "2026-12-25",
+   "service_requests": [
+    {
+     "id": "1",
+     "category": "Category 1",
+     "service_type": "Data Transmission and/or Internet Access",
+     "function": "Internet Access and Data Transmission Service",
+     "quantity": "3",
+     "unit": "Each",
+     "manufacturer": null,
+     "description": null,
+     "rfp_document_urls": []
+    }
+   ]
+  },
+  {
+   "number": "270005204",
+   "funding_year": "2027",
+   "entity_name": "Rock County Christian School",
+   "applicant_type": "School District",
+   "billed_entity_number": "17005190",
+   "city": "Beloit",
+   "state": "WI",
+   "website": "www.rccs.us",
+   "has_consultant": true,
+   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270005204/17005190/22983497-USAC_FCC_FORM_470_APPLICATION_270005204_CERTIFIED.pdf",
+   "rfp_document_urls": [],
+   "certified_at": "2026-11-27T14:22:32",
+   "last_modified_at": "2026-11-27T14:22:32",
+   "allowable_contract_date": "2026-12-25",
+   "service_requests": [
+    {
+     "id": "1",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Firewall Service, Components, and Necessary Software and Licenses",
+     "quantity": "1",
+     "unit": "Each",
+     "manufacturer": "No Preference",
+     "description": "Firewall and caching for one school building at 1524 Frederick St., Beloit, WI 53511 (about 211 students; the school's two campuses consolidate into this building at the end of December 2026): one firewall and one caching solution, with installation and initial configuration. Minimum throughput of 1 Gbps for each, with options for higher throughput (up to 10 Gbps) priced separately. Only basic firewall functions are eligible; content filtering and other ineligible features must be priced separately. Any brand or equivalent is acceptable. Please itemize make, model, quantity, license term and unit price, and include your SPIN. Walk-throughs and questions: Abe Chervitz, E-Rate Path, [redacted].",
+     "rfp_document_urls": []
+    },
+    {
+     "id": "2",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Caching and Necessary Software and Licenses",
+     "quantity": "1",
+     "unit": "Each",
+     "manufacturer": "No Preference",
+     "description": "Firewall and caching for one school building at 1524 Frederick St., Beloit, WI 53511 (about 211 students; the school's two campuses consolidate into this building at the end of December 2026): one firewall and one caching solution, with installation and initial configuration. Minimum throughput of 1 Gbps for each, with options for higher throughput (up to 10 Gbps) priced separately. Only basic firewall functions are eligible; content filtering and other ineligible features must be priced separately. Any brand or equivalent is acceptable. Please itemize make, model, quantity, license term and unit price, and include your SPIN. Walk-throughs and questions: Abe Chervitz, E-Rate Path, [redacted].",
      "rfp_document_urls": []
     }
    ]
@@ -237532,6 +237690,46 @@
      "rfp_document_urls": [
       "https://publicdata.usac.org/EPC/Prd/Form470/270005237/17002175/22954815-PSPL_Request%20for%20Proposal%20_%20internet%202027.docx"
      ]
+    }
+   ]
+  },
+  {
+   "number": "270005238",
+   "funding_year": "2027",
+   "entity_name": "TEMIMA HIGH SCHOOL FOR GIRLS",
+   "applicant_type": "School",
+   "billed_entity_number": "194972",
+   "city": "ATLANTA",
+   "state": "GA",
+   "website": "www.temima.org",
+   "has_consultant": true,
+   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270005238/194972/22983491-USAC_FCC_FORM_470_APPLICATION_270005238_CERTIFIED.pdf",
+   "rfp_document_urls": [],
+   "certified_at": "2026-11-27T14:22:26",
+   "last_modified_at": "2026-11-27T14:22:26",
+   "allowable_contract_date": "2026-12-25",
+   "service_requests": [
+    {
+     "id": "1",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Wireless Access Points and Necessary Software and Licenses",
+     "quantity": "8",
+     "unit": "Each",
+     "manufacturer": "No Preference",
+     "description": "Wi-Fi and battery backup for one school building at 1839 LaVista Road, Atlanta, GA 30329 (about 84 students): up to 8 indoor wireless access points, and one battery backup (UPS) for the network equipment, all with installation and initial configuration. Quantities are estimates; vendors may schedule a walk-through. Any brand or equivalent is acceptable. Please itemize make, model, quantity and unit price, price any ineligible items separately, and include your SPIN. Walk-throughs and questions: Abe Chervitz, E-Rate Path, [redacted].",
+     "rfp_document_urls": []
+    },
+    {
+     "id": "2",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Uninterruptable Power Supply/Battery Backup and Necessary Software and Licenses",
+     "quantity": "1",
+     "unit": "Each",
+     "manufacturer": "No Preference",
+     "description": "Wi-Fi and battery backup for one school building at 1839 LaVista Road, Atlanta, GA 30329 (about 84 students): up to 8 indoor wireless access points, and one battery backup (UPS) for the network equipment, all with installation and initial configuration. Quantities are estimates; vendors may schedule a walk-through. Any brand or equivalent is acceptable. Please itemize make, model, quantity and unit price, price any ineligible items separately, and include your SPIN. Walk-throughs and questions: Abe Chervitz, E-Rate Path, [redacted].",
+     "rfp_document_urls": []
     }
    ]
   },
@@ -265774,6 +265972,66 @@
    ]
   },
   {
+   "number": "270005918",
+   "funding_year": "2027",
+   "entity_name": "SANTA ROSA CITY SCHOOL DIST",
+   "applicant_type": "School District",
+   "billed_entity_number": "144436",
+   "city": "SANTA ROSA",
+   "state": "CA",
+   "website": null,
+   "has_consultant": true,
+   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270005918/144436/22983598-USAC_FCC_FORM_470_APPLICATION_270005918_CERTIFIED.pdf",
+   "rfp_document_urls": [
+    "https://publicdata.usac.org/EPC/Prd/Form470/270005918/144436/22983586-SRCS%20Elsie%20Allen%20Internet%20Yr%2030.pdf",
+    "https://publicdata.usac.org/EPC/Prd/Form470/270005918/144436/22983585-SRCS%20Broadband%20Yr%2030.pdf"
+   ],
+   "certified_at": "2026-11-27T16:42:58",
+   "last_modified_at": "2026-11-27T16:42:58",
+   "allowable_contract_date": "2026-12-25",
+   "service_requests": [
+    {
+     "id": "1",
+     "category": "Category 1",
+     "service_type": "Data Transmission and/or Internet Access",
+     "function": "Internet Access and Data Transmission Service",
+     "quantity": "1",
+     "unit": "Each",
+     "manufacturer": null,
+     "description": null,
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270005918/144436/22983586-SRCS%20Elsie%20Allen%20Internet%20Yr%2030.pdf"
+     ]
+    },
+    {
+     "id": "2",
+     "category": "Category 1",
+     "service_type": "Data Transmission and/or Internet Access",
+     "function": "Leased Dark Fiber",
+     "quantity": "3",
+     "unit": "Fiber Strands",
+     "manufacturer": null,
+     "description": null,
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270005918/144436/22983585-SRCS%20Broadband%20Yr%2030.pdf"
+     ]
+    },
+    {
+     "id": "3",
+     "category": "Category 1",
+     "service_type": "Data Transmission and/or Internet Access",
+     "function": "Leased Lit Fiber",
+     "quantity": "3",
+     "unit": "Each",
+     "manufacturer": null,
+     "description": null,
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270005918/144436/22983585-SRCS%20Broadband%20Yr%2030.pdf"
+     ]
+    }
+   ]
+  },
+  {
    "number": "270005919",
    "funding_year": "2027",
    "entity_name": "TEHACHAPI UNIF SCHOOL DISTRICT",
@@ -266443,6 +266701,307 @@
      "description": null,
      "rfp_document_urls": [
       "https://publicdata.usac.org/EPC/Prd/Form470/270005932/128673/22982239-Columbia_RFP_FY20272028_C1_WAN_Internet.pdf"
+     ]
+    }
+   ]
+  },
+  {
+   "number": "270005934",
+   "funding_year": "2027",
+   "entity_name": "HAYNER PUBLIC LIBRARY DISTRICT",
+   "applicant_type": "Library System",
+   "billed_entity_number": "136352",
+   "city": "ALTON",
+   "state": "IL",
+   "website": null,
+   "has_consultant": true,
+   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270005934/136352/22983043-USAC_FCC_FORM_470_APPLICATION_270005934_CERTIFIED.pdf",
+   "rfp_document_urls": [],
+   "certified_at": "2026-11-27T09:41:52",
+   "last_modified_at": "2026-11-27T09:41:52",
+   "allowable_contract_date": "2026-12-25",
+   "service_requests": [
+    {
+     "id": "1",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Uninterruptable Power Supply/Battery Backup and Necessary Software and Licenses",
+     "quantity": "6",
+     "unit": "Each",
+     "manufacturer": "Ubiquiti or equivalent",
+     "description": "The library is seeking bids/proposals for the purchase only, installation only, and/or purchase and installation of the following:-Ubiquiti or Equivalent USP-PDU-HD - 6 ea.-Ubiquiti or Equivalent USL-Smoke Detector - 4 ea.-Ubiquiti or Equivalent SuperLink Gateway - 4 ea.-Ubiquiti or Equivalent USL Environmental Sensor - 4 ea.-Ubiquiti or Equivalent ECS-P48s-PoE Switch - 4 ea.-Ubiquiti or Equivalent UI Care for Switches - 4 ea.-Ubiquiti or Equivalent UACC-DAC-QSFP28-1M-10 Cable - 8 ea.-Ubiquiti or Equivalent 24 Port Blank Keystone Patch Cable - 8 ea.-Ubiquiti or EquivalentCat6 Keystone Coupler, 12-Pack - 18 ea.-Ubiquiti or Equivalent UACC-Cable-Patch-0.2M-W - 220 ea.",
+     "rfp_document_urls": []
+    },
+    {
+     "id": "2",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Wireless Access Points and Necessary Software and Licenses",
+     "quantity": "4",
+     "unit": "Each",
+     "manufacturer": "Ubiquiti or equivalent",
+     "description": "The library is seeking bids/proposals for the purchase only, installation only, and/or purchase and installation of the following:-Ubiquiti or Equivalent USP-PDU-HD - 6 ea.-Ubiquiti or Equivalent USL-Smoke Detector - 4 ea.-Ubiquiti or Equivalent SuperLink Gateway - 4 ea.-Ubiquiti or Equivalent USL Environmental Sensor - 4 ea.-Ubiquiti or Equivalent ECS-P48s-PoE Switch - 4 ea.-Ubiquiti or Equivalent UI Care for Switches - 4 ea.-Ubiquiti or Equivalent UACC-DAC-QSFP28-1M-10 Cable - 8 ea.-Ubiquiti or Equivalent 24 Port Blank Keystone Patch Cable - 8 ea.-Ubiquiti or EquivalentCat6 Keystone Coupler, 12-Pack - 18 ea.-Ubiquiti or Equivalent UACC-Cable-Patch-0.2M-W - 220 ea.",
+     "rfp_document_urls": []
+    },
+    {
+     "id": "3",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Wireless Access Points and Necessary Software and Licenses",
+     "quantity": "4",
+     "unit": "Each",
+     "manufacturer": "Ubiquiti or equivalent",
+     "description": "The library is seeking bids/proposals for the purchase only, installation only, and/or purchase and installation of the following:-Ubiquiti or Equivalent USP-PDU-HD - 6 ea.-Ubiquiti or Equivalent USL-Smoke Detector - 4 ea.-Ubiquiti or Equivalent SuperLink Gateway - 4 ea.-Ubiquiti or Equivalent USL Environmental Sensor - 4 ea.-Ubiquiti or Equivalent ECS-P48s-PoE Switch - 4 ea.-Ubiquiti or Equivalent UI Care for Switches - 4 ea.-Ubiquiti or Equivalent UACC-DAC-QSFP28-1M-10 Cable - 8 ea.-Ubiquiti or Equivalent 24 Port Blank Keystone Patch Cable - 8 ea.-Ubiquiti or EquivalentCat6 Keystone Coupler, 12-Pack - 18 ea.-Ubiquiti or Equivalent UACC-Cable-Patch-0.2M-W - 220 ea.",
+     "rfp_document_urls": []
+    },
+    {
+     "id": "4",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Switches and Necessary Software and Licenses",
+     "quantity": "4",
+     "unit": "Each",
+     "manufacturer": "Ubiquiti or equivalent",
+     "description": "The library is seeking bids/proposals for the purchase only, installation only, and/or purchase and installation of the following:-Ubiquiti or Equivalent USP-PDU-HD - 6 ea.-Ubiquiti or Equivalent USL-Smoke Detector - 4 ea.-Ubiquiti or Equivalent SuperLink Gateway - 4 ea.-Ubiquiti or Equivalent USL Environmental Sensor - 4 ea.-Ubiquiti or Equivalent ECS-P48s-PoE Switch - 4 ea.-Ubiquiti or Equivalent UI Care for Switches - 4 ea.-Ubiquiti or Equivalent UACC-DAC-QSFP28-1M-10 Cable - 8 ea.-Ubiquiti or Equivalent 24 Port Blank Keystone Patch Cable - 8 ea.-Ubiquiti or EquivalentCat6 Keystone Coupler, 12-Pack - 18 ea.-Ubiquiti or Equivalent UACC-Cable-Patch-0.2M-W - 220 ea.",
+     "rfp_document_urls": []
+    },
+    {
+     "id": "5",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Switches and Necessary Software and Licenses",
+     "quantity": "4",
+     "unit": "Each",
+     "manufacturer": "Ubiquiti or equivalent",
+     "description": "The library is seeking bids/proposals for the purchase only, installation only, and/or purchase and installation of the following:-Ubiquiti or Equivalent USP-PDU-HD - 6 ea.-Ubiquiti or Equivalent USL-Smoke Detector - 4 ea.-Ubiquiti or Equivalent SuperLink Gateway - 4 ea.-Ubiquiti or Equivalent USL Environmental Sensor - 4 ea.-Ubiquiti or Equivalent ECS-P48s-PoE Switch - 4 ea.-Ubiquiti or Equivalent UI Care for Switches - 4 ea.-Ubiquiti or Equivalent UACC-DAC-QSFP28-1M-10 Cable - 8 ea.-Ubiquiti or Equivalent 24 Port Blank Keystone Patch Cable - 8 ea.-Ubiquiti or EquivalentCat6 Keystone Coupler, 12-Pack - 18 ea.-Ubiquiti or Equivalent UACC-Cable-Patch-0.2M-W - 220 ea.",
+     "rfp_document_urls": []
+    },
+    {
+     "id": "6",
+     "category": "Category 2",
+     "service_type": "Basic Maintenance of Internal Connections",
+     "function": "Switches",
+     "quantity": "4",
+     "unit": "Each",
+     "manufacturer": "Ubiquiti",
+     "description": "The library is seeking bids/proposals for the purchase only, installation only, and/or purchase and installation of the following:-Ubiquiti or Equivalent USP-PDU-HD - 6 ea.-Ubiquiti or Equivalent USL-Smoke Detector - 4 ea.-Ubiquiti or Equivalent SuperLink Gateway - 4 ea.-Ubiquiti or Equivalent USL Environmental Sensor - 4 ea.-Ubiquiti or Equivalent ECS-P48s-PoE Switch - 4 ea.-Ubiquiti or Equivalent UI Care for Switches - 4 ea.-Ubiquiti or Equivalent UACC-DAC-QSFP28-1M-10 Cable - 8 ea.-Ubiquiti or Equivalent 24 Port Blank Keystone Patch Cable - 8 ea.-Ubiquiti or EquivalentCat6 Keystone Coupler, 12-Pack - 18 ea.-Ubiquiti or Equivalent UACC-Cable-Patch-0.2M-W - 220 ea.",
+     "rfp_document_urls": []
+    },
+    {
+     "id": "7",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Antennas, Connectors, and Related Components",
+     "quantity": "8",
+     "unit": "Each",
+     "manufacturer": "Ubiquiti or equivalent",
+     "description": "The library is seeking bids/proposals for the purchase only, installation only, and/or purchase and installation of the following:-Ubiquiti or Equivalent USP-PDU-HD - 6 ea.-Ubiquiti or Equivalent USL-Smoke Detector - 4 ea.-Ubiquiti or Equivalent SuperLink Gateway - 4 ea.-Ubiquiti or Equivalent USL Environmental Sensor - 4 ea.-Ubiquiti or Equivalent ECS-P48s-PoE Switch - 4 ea.-Ubiquiti or Equivalent UI Care for Switches - 4 ea.-Ubiquiti or Equivalent UACC-DAC-QSFP28-1M-10 Cable - 8 ea.-Ubiquiti or Equivalent 24 Port Blank Keystone Patch Cable - 8 ea.-Ubiquiti or EquivalentCat6 Keystone Coupler, 12-Pack - 18 ea.-Ubiquiti or Equivalent UACC-Cable-Patch-0.2M-W - 220 ea.",
+     "rfp_document_urls": []
+    },
+    {
+     "id": "8",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Antennas, Connectors, and Related Components",
+     "quantity": "8",
+     "unit": "Each",
+     "manufacturer": "No Preference",
+     "description": "The library is seeking bids/proposals for the purchase only, installation only, and/or purchase and installation of the following:-Ubiquiti or Equivalent USP-PDU-HD - 6 ea.-Ubiquiti or Equivalent USL-Smoke Detector - 4 ea.-Ubiquiti or Equivalent SuperLink Gateway - 4 ea.-Ubiquiti or Equivalent USL Environmental Sensor - 4 ea.-Ubiquiti or Equivalent ECS-P48s-PoE Switch - 4 ea.-Ubiquiti or Equivalent UI Care for Switches - 4 ea.-Ubiquiti or Equivalent UACC-DAC-QSFP28-1M-10 Cable - 8 ea.-Ubiquiti or Equivalent 24 Port Blank Keystone Patch Cable - 8 ea.-Ubiquiti or EquivalentCat6 Keystone Coupler, 12-Pack - 18 ea.-Ubiquiti or Equivalent UACC-Cable-Patch-0.2M-W - 220 ea.",
+     "rfp_document_urls": []
+    },
+    {
+     "id": "9",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Antennas, Connectors, and Related Components",
+     "quantity": "18",
+     "unit": "Each",
+     "manufacturer": "No Preference",
+     "description": "The library is seeking bids/proposals for the purchase only, installation only, and/or purchase and installation of the following:-Ubiquiti or Equivalent USP-PDU-HD - 6 ea.-Ubiquiti or Equivalent USL-Smoke Detector - 4 ea.-Ubiquiti or Equivalent SuperLink Gateway - 4 ea.-Ubiquiti or Equivalent USL Environmental Sensor - 4 ea.-Ubiquiti or Equivalent ECS-P48s-PoE Switch - 4 ea.-Ubiquiti or Equivalent UI Care for Switches - 4 ea.-Ubiquiti or Equivalent UACC-DAC-QSFP28-1M-10 Cable - 8 ea.-Ubiquiti or Equivalent 24 Port Blank Keystone Patch Cable - 8 ea.-Ubiquiti or EquivalentCat6 Keystone Coupler, 12-Pack - 18 ea.-Ubiquiti or Equivalent UACC-Cable-Patch-0.2M-W - 220 ea.",
+     "rfp_document_urls": []
+    },
+    {
+     "id": "10",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Antennas, Connectors, and Related Components",
+     "quantity": "220",
+     "unit": "Each",
+     "manufacturer": "Ubiquiti or equivalent",
+     "description": "The library is seeking bids/proposals for the purchase only, installation only, and/or purchase and installation of the following:-Ubiquiti or Equivalent USP-PDU-HD - 6 ea.-Ubiquiti or Equivalent USL-Smoke Detector - 4 ea.-Ubiquiti or Equivalent SuperLink Gateway - 4 ea.-Ubiquiti or Equivalent USL Environmental Sensor - 4 ea.-Ubiquiti or Equivalent ECS-P48s-PoE Switch - 4 ea.-Ubiquiti or Equivalent UI Care for Switches - 4 ea.-Ubiquiti or Equivalent UACC-DAC-QSFP28-1M-10 Cable - 8 ea.-Ubiquiti or Equivalent 24 Port Blank Keystone Patch Cable - 8 ea.-Ubiquiti or EquivalentCat6 Keystone Coupler, 12-Pack - 18 ea.-Ubiquiti or Equivalent UACC-Cable-Patch-0.2M-W - 220 ea.",
+     "rfp_document_urls": []
+    }
+   ]
+  },
+  {
+   "number": "270005935",
+   "funding_year": "2027",
+   "entity_name": "THIEF RIVER FALLS SCH DIST 564",
+   "applicant_type": "School District",
+   "billed_entity_number": "134025",
+   "city": "THIEF RVR FLS",
+   "state": "MN",
+   "website": null,
+   "has_consultant": false,
+   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270005935/134025/22983108-USAC_FCC_FORM_470_APPLICATION_270005935_CERTIFIED.pdf",
+   "rfp_document_urls": [],
+   "certified_at": "2026-11-27T10:15:15",
+   "last_modified_at": "2026-11-27T10:15:15",
+   "allowable_contract_date": "2026-12-25",
+   "service_requests": [
+    {
+     "id": "1",
+     "category": "Category 2",
+     "service_type": "Managed Internal Broadband Services",
+     "function": "Existing Equipment",
+     "quantity": null,
+     "unit": null,
+     "manufacturer": null,
+     "description": "Thief River Falls Public Schools is requesting bids for a three-year contract (with optional one-year or multi-year pricing if available) for Managed Internal Broadband Services (MIBS) covering existing district-owned network equipment across four school buildings. Equipment to be supported includes Fortinet firewalls (quantity 2), Cisco switches (quantity 43), and Extreme Networks wireless access points (quantity 260). Services should cover ongoing management, monitoring, maintenance, and technical support for this existing hardware across all four sites. Bidders must itemize pricing clearly, separate E rate eligible MIBS costs from any ineligible or separate charges, and include all applicable per diem, mileage, travel, and other fees in their quoted rates.Due to on-site support and response needs across the district's four buildings, prospective vendors should maintain offices and technical support within 250 miles of Thief River Falls Public Schools (56701). Bidders must provide three Minnesota K-12 references demonstrating experience with network hardware and installation, along with proof of authorized partner or manufacturer-supported status for the equipment lines proposed. All vendor inquiries and bid submissions must be sent via email. Please refrain from phone calls so all communications remain documented and consistent.",
+     "rfp_document_urls": []
+    }
+   ]
+  },
+  {
+   "number": "270005939",
+   "funding_year": "2027",
+   "entity_name": "BURLINGAME UNIF SCH DIST 454",
+   "applicant_type": "School District",
+   "billed_entity_number": "137628",
+   "city": "BURLINGAME",
+   "state": "KS",
+   "website": null,
+   "has_consultant": true,
+   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270005939/137628/22983344-USAC_FCC_FORM_470_APPLICATION_270005939_CERTIFIED.pdf",
+   "rfp_document_urls": [
+    "https://publicdata.usac.org/EPC/Prd/Form470/270005939/137628/22983333-Burlingame%20USD%20454%202027%20UPS_s%20RFP%2011.27.206.pdf"
+   ],
+   "certified_at": "2026-11-27T12:26:21",
+   "last_modified_at": "2026-11-27T12:26:21",
+   "allowable_contract_date": "2026-12-25",
+   "service_requests": [
+    {
+     "id": "1",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Uninterruptable Power Supply/Battery Backup and Necessary Software and Licenses",
+     "quantity": "4",
+     "unit": "Each",
+     "manufacturer": "Eaton or equivalent",
+     "description": "4 UPSs. See RFP for full details.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270005939/137628/22983333-Burlingame%20USD%20454%202027%20UPS_s%20RFP%2011.27.206.pdf"
+     ]
+    },
+    {
+     "id": "2",
+     "category": "Category 2",
+     "service_type": "Basic Maintenance of Internal Connections",
+     "function": "Uninterruptable Power Supply/Battery Backup",
+     "quantity": "4",
+     "unit": "Each",
+     "manufacturer": "Eaton",
+     "description": "4 UPSs. See RFP for full details.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270005939/137628/22983333-Burlingame%20USD%20454%202027%20UPS_s%20RFP%2011.27.206.pdf"
+     ]
+    }
+   ]
+  },
+  {
+   "number": "270005940",
+   "funding_year": "2027",
+   "entity_name": "BURLINGAME UNIF SCH DIST 454",
+   "applicant_type": "School District",
+   "billed_entity_number": "137628",
+   "city": "BURLINGAME",
+   "state": "KS",
+   "website": null,
+   "has_consultant": true,
+   "form_pdf_url": "https://publicdata.usac.org/EPC/Prd/Form470/270005940/137628/22983353-USAC_FCC_FORM_470_APPLICATION_270005940_CERTIFIED.pdf",
+   "rfp_document_urls": [
+    "https://publicdata.usac.org/EPC/Prd/Form470/270005940/137628/22983345-Burlingame%20USD%20454%202027%20AP%20and%20Cabling%20RFP%2011.27.2026.pdf"
+   ],
+   "certified_at": "2026-11-27T12:31:03",
+   "last_modified_at": "2026-11-27T12:31:03",
+   "allowable_contract_date": "2026-12-25",
+   "service_requests": [
+    {
+     "id": "1",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Wireless Access Points and Necessary Software and Licenses",
+     "quantity": "29",
+     "unit": "Each",
+     "manufacturer": "Ubiquiti or equivalent",
+     "description": "33 wireless access points, cabling and connectors. See RFP documents for full details.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270005940/137628/22983345-Burlingame%20USD%20454%202027%20AP%20and%20Cabling%20RFP%2011.27.2026.pdf"
+     ]
+    },
+    {
+     "id": "2",
+     "category": "Category 2",
+     "service_type": "Basic Maintenance of Internal Connections",
+     "function": "Wireless Access Points",
+     "quantity": "29",
+     "unit": "Each",
+     "manufacturer": "Ubiquiti",
+     "description": "33 wireless access points, cabling and connectors. See RFP documents for full details.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270005940/137628/22983345-Burlingame%20USD%20454%202027%20AP%20and%20Cabling%20RFP%2011.27.2026.pdf"
+     ]
+    },
+    {
+     "id": "3",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Wireless Access Points and Necessary Software and Licenses",
+     "quantity": "4",
+     "unit": "Each",
+     "manufacturer": "Ubiquiti or equivalent",
+     "description": "33 wireless access points, cabling and connectors. See RFP documents for full details.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270005940/137628/22983345-Burlingame%20USD%20454%202027%20AP%20and%20Cabling%20RFP%2011.27.2026.pdf"
+     ]
+    },
+    {
+     "id": "4",
+     "category": "Category 2",
+     "service_type": "Basic Maintenance of Internal Connections",
+     "function": "Wireless Access Points",
+     "quantity": "4",
+     "unit": "Each",
+     "manufacturer": "Ubiquiti",
+     "description": "33 wireless access points, cabling and connectors. See RFP documents for full details.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270005940/137628/22983345-Burlingame%20USD%20454%202027%20AP%20and%20Cabling%20RFP%2011.27.2026.pdf"
+     ]
+    },
+    {
+     "id": "5",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Cabling",
+     "quantity": "500",
+     "unit": "Feet",
+     "manufacturer": "No Preference",
+     "description": "33 wireless access points, cabling and connectors. See RFP documents for full details.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270005940/137628/22983345-Burlingame%20USD%20454%202027%20AP%20and%20Cabling%20RFP%2011.27.2026.pdf"
+     ]
+    },
+    {
+     "id": "6",
+     "category": "Category 2",
+     "service_type": "Internal Connections",
+     "function": "Antennas, Connectors, and Related Components",
+     "quantity": "500",
+     "unit": "Each",
+     "manufacturer": "No Preference",
+     "description": "33 wireless access points, cabling and connectors. See RFP documents for full details.",
+     "rfp_document_urls": [
+      "https://publicdata.usac.org/EPC/Prd/Form470/270005940/137628/22983345-Burlingame%20USD%20454%202027%20AP%20and%20Cabling%20RFP%2011.27.2026.pdf"
      ]
     }
    ]
